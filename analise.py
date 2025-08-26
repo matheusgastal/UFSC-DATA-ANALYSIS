@@ -7,8 +7,8 @@ with open("notas_por_ano.json", "r", encoding="utf-8") as f:
 df_pesos = pd.read_json("pesos_ufsc.json")
 
 
-RDC = 8 #redacao (max 10)
-DSC = 7. #descritivas da prova (max 10)
+RDC = 5 #redacao (max 10)
+DSC = 5 #descritivas da prova (max 10)
 
 # função auxiliar
 def to_float_safe(x):
@@ -72,12 +72,10 @@ for i in range(2,6):
             nao_passa.append(nome)
             nao_passaria += 1
 
-    print("=======================================================================")
     print(f"ANO DE {ano}")
     print(f"Não passaria em {nao_passaria} cursos:")
     for z in range(len(nao_passa)):
         print(f"  - {nao_passa[z]} por {round(diff[z],2)} pontos")
     print(f"Passaria em {passaria} cursos")
     print(f"Passaria em primeiro lugar em {passaria_primeiro} cursos")
-    if i == 5:
-        print("=======================================================================")
+

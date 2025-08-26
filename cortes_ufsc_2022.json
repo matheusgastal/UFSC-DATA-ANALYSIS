@@ -1,650 +1,920 @@
 [
   {
-    "Código": 301,
-    "Curso": "ADMINISTRAÇÃO - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 64.38,
-    "Nota_Último": 43.71,
-    "Vagas_Oferecidas": 5,
+    "Código": 460,
+    "Curso": "ABI - LETRAS ALEMÃO - ABI - VESPERTINO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 62.52,
+    "Nota_Último": 34.36,
+    "Nota_Corte": 34.36,
+    "Vagas_Oferecidas": 14,
     "Vagas_Ocupadas": 5
+  },
+  {
+    "Código": 463,
+    "Curso": "ABI - LETRAS ESPANHOL - ABI - MATUTINO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 52.29,
+    "Nota_Último": 28.93,
+    "Nota_Corte": 28.93,
+    "Vagas_Oferecidas": 14,
+    "Vagas_Ocupadas": 9
+  },
+  {
+    "Código": 466,
+    "Curso": "ABI - LETRAS FRANCÊS - ABI - MATUTINO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 58.15,
+    "Nota_Último": 34.23,
+    "Nota_Corte": 34.23,
+    "Vagas_Oferecidas": 14,
+    "Vagas_Ocupadas": 7
+  },
+  {
+    "Código": 469,
+    "Curso": "ABI - LETRAS INGLÊS - ABI - VESPERTINO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 65.09,
+    "Nota_Último": 52.2,
+    "Nota_Corte": 52.2,
+    "Vagas_Oferecidas": 14,
+    "Vagas_Ocupadas": 14
+  },
+  {
+    "Código": 472,
+    "Curso": "ABI - LETRAS ITALIANO - ABI - MATUTINO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 61.02,
+    "Nota_Último": 40.78,
+    "Nota_Corte": 40.78,
+    "Vagas_Oferecidas": 14,
+    "Vagas_Ocupadas": 7
+  },
+  {
+    "Código": 301,
+    "Curso": "ADMINISTRAÇÃO - BEL - MATUTINO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 69.84,
+    "Nota_Último": 44.21,
+    "Nota_Corte": 44.21,
+    "Vagas_Oferecidas": 35,
+    "Vagas_Ocupadas": 57
   },
   {
     "Código": 316,
-    "Curso": "ADMINISTRAÇÃO - NOTURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 64.41,
-    "Nota_Último": 50.55,
-    "Vagas_Oferecidas": 5,
-    "Vagas_Ocupadas": 5
+    "Curso": "ADMINISTRAÇÃO - BEL - NOTURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 73.6,
+    "Nota_Último": 41.33,
+    "Nota_Corte": 41.33,
+    "Vagas_Oferecidas": 35,
+    "Vagas_Ocupadas": 50
+  },
+  {
+    "Código": 555,
+    "Curso": "AGRONOMIA - BEL - INTEGRAL - CURITIBANOS",
+    "Nota_Primeiro": 65.44,
+    "Nota_Último": 26.66,
+    "Nota_Corte": 26.66,
+    "Vagas_Oferecidas": 35,
+    "Vagas_Ocupadas": 17
   },
   {
     "Código": 501,
-    "Curso": "AGRONOMIA - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 49.68,
-    "Nota_Último": 31.35,
-    "Vagas_Oferecidas": 5,
-    "Vagas_Ocupadas": 6
+    "Curso": "AGRONOMIA - BEL - INTEGRAL - FLORIANÓPOLIS",
+    "Nota_Primeiro": 80.76,
+    "Nota_Último": 26.44,
+    "Nota_Corte": 26.44,
+    "Vagas_Oferecidas": 38,
+    "Vagas_Ocupadas": 48
   },
   {
     "Código": 455,
-    "Curso": "ANIMAÇÃO - DIURNO/NOTURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 72.23,
-    "Nota_Último": 62.58,
-    "Vagas_Oferecidas": 2,
-    "Vagas_Ocupadas": 2
+    "Curso": "ANIMAÇÃO - BEL - INTEGRAL - FLORIANÓPOLIS",
+    "Nota_Primeiro": 71.58,
+    "Nota_Último": 60.72,
+    "Nota_Corte": 60.72,
+    "Vagas_Oferecidas": 14,
+    "Vagas_Ocupadas": 14
   },
   {
     "Código": 337,
-    "Curso": "ANTROPOLOGIA - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 55.28,
-    "Nota_Último": 55.28,
-    "Vagas_Oferecidas": 2,
-    "Vagas_Ocupadas": 1
+    "Curso": "ANTROPOLOGIA - BEL - VESPERTINO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 64.05,
+    "Nota_Último": 37.91,
+    "Nota_Corte": 37.91,
+    "Vagas_Oferecidas": 9,
+    "Vagas_Ocupadas": 13
   },
   {
     "Código": 207,
-    "Curso": "ARQUITETURA E URBANISMO - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 73.86,
-    "Nota_Último": 64.85,
-    "Vagas_Oferecidas": 4,
-    "Vagas_Ocupadas": 4
+    "Curso": "ARQUITETURA E URBANISMO - BEL - INTEGRAL - FLORIANÓPOLIS",
+    "Nota_Primeiro": 84.93,
+    "Nota_Último": 68.35,
+    "Nota_Corte": 68.35,
+    "Vagas_Oferecidas": 28,
+    "Vagas_Ocupadas": 28
+  },
+  {
+    "Código": 335,
+    "Curso": "ARQUIVOLOGIA - BEL - MATUTINO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 53.84,
+    "Nota_Último": 27.25,
+    "Nota_Corte": 27.25,
+    "Vagas_Oferecidas": 21,
+    "Vagas_Ocupadas": 9
   },
   {
     "Código": 451,
-    "Curso": "ARTES CÊNICAS - NOTURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 52.37,
-    "Nota_Último": 43.71,
-    "Vagas_Oferecidas": 3,
-    "Vagas_Ocupadas": 5
+    "Curso": "ARTES CÊNICAS - BEL - NOTURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 64.17,
+    "Nota_Último": 52.34,
+    "Nota_Corte": 52.34,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 10
   },
   {
     "Código": 324,
-    "Curso": "BIBLIOTECONOMIA - NOTURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 49.27,
-    "Nota_Último": 36.08,
-    "Vagas_Oferecidas": 3,
-    "Vagas_Ocupadas": 3
+    "Curso": "BIBLIOTECONOMIA - BEL - NOTURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 59.35,
+    "Nota_Último": 34.06,
+    "Nota_Corte": 34.06,
+    "Vagas_Oferecidas": 21,
+    "Vagas_Ocupadas": 12
+  },
+  {
+    "Código": 208,
+    "Curso": "CIÊNCIA DA COMPUTAÇÃO - BEL - INTEGRAL - FLORIANÓPOLIS",
+    "Nota_Primeiro": 79.55,
+    "Nota_Último": 64.59,
+    "Nota_Corte": 64.59,
+    "Vagas_Oferecidas": 35,
+    "Vagas_Ocupadas": 35
   },
   {
     "Código": 342,
-    "Curso": "CIÊNCIA DA INFORMAÇÃO - DIURNO/NOTURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 46.81,
-    "Nota_Último": 32.57,
-    "Vagas_Oferecidas": 2,
-    "Vagas_Ocupadas": 2
+    "Curso": "CIÊNCIA DA INFORMAÇÃO - BEL - INTEGRAL - FLORIANÓPOLIS",
+    "Nota_Primeiro": 65.5,
+    "Nota_Último": 52.2,
+    "Nota_Corte": 52.2,
+    "Vagas_Oferecidas": 14,
+    "Vagas_Ocupadas": 14
   },
   {
     "Código": 601,
-    "Curso": "CIÊNCIA E TECNOLOGIA - DIURNO/NOTURNO - JOINVILLE",
-    "Nota_Primeiro": 55.89,
-    "Nota_Último": 31.9,
-    "Vagas_Oferecidas": 3,
-    "Vagas_Ocupadas": 3
+    "Curso": "CIÊNCIA E TECNOLOGIA - BEL - INTEGRAL - JOINVILLE",
+    "Nota_Primeiro": 73.56,
+    "Nota_Último": 38.19,
+    "Nota_Corte": 38.19,
+    "Vagas_Oferecidas": 21,
+    "Vagas_Ocupadas": 39
   },
   {
     "Código": 503,
     "Curso": "CIÊNCIA E TECNOLOGIA DE ALIMENTOS - FLORIANÓPOLIS",
-    "Nota_Primeiro": 45.12,
-    "Nota_Último": 45.12,
-    "Vagas_Oferecidas": 3,
-    "Vagas_Ocupadas": 1
+    "Nota_Primeiro": 61.58,
+    "Nota_Último": 34.04,
+    "Nota_Corte": 34.04,
+    "Vagas_Oferecidas": 24,
+    "Vagas_Ocupadas": 7
   },
   {
     "Código": 108,
-    "Curso": "CIÊNCIAS BIOLÓGICAS - BEL/LIC - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 72.48,
-    "Nota_Último": 52.11,
-    "Vagas_Oferecidas": 4,
-    "Vagas_Ocupadas": 6
+    "Curso": "CIÊNCIAS BIOLÓGICAS - INTEGRAL - FLORIANÓPOLIS",
+    "Nota_Primeiro": 76.89,
+    "Nota_Último": 62.86,
+    "Nota_Corte": 62.86,
+    "Vagas_Oferecidas": 28,
+    "Vagas_Ocupadas": 28
   },
   {
     "Código": 110,
     "Curso": "CIÊNCIAS BIOLÓGICAS - LIC - NOTURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 57.78,
-    "Nota_Último": 48.47,
-    "Vagas_Oferecidas": 4,
-    "Vagas_Ocupadas": 4
+    "Nota_Primeiro": 65.05,
+    "Nota_Último": 32.26,
+    "Nota_Corte": 32.26,
+    "Vagas_Oferecidas": 28,
+    "Vagas_Ocupadas": 34
   },
   {
     "Código": 302,
-    "Curso": "CIÊNCIAS CONTÁBEIS - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 61.43,
-    "Nota_Último": 28.44,
-    "Vagas_Oferecidas": 4,
-    "Vagas_Ocupadas": 7
+    "Curso": "CIÊNCIAS CONTÁBEIS - BEL - MATUTINO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 71.95,
+    "Nota_Último": 25.62,
+    "Nota_Corte": 25.62,
+    "Vagas_Oferecidas": 31,
+    "Vagas_Ocupadas": 38
   },
   {
     "Código": 317,
-    "Curso": "CIÊNCIAS CONTÁBEIS - NOTURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 83.77,
-    "Nota_Último": 30.4,
-    "Vagas_Oferecidas": 4,
-    "Vagas_Ocupadas": 9
-  },
-  {
-    "Código": 208,
-    "Curso": "CIÊNCIAS DA COMPUTAÇÃO - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 78.71,
-    "Nota_Último": 52.52,
-    "Vagas_Oferecidas": 5,
-    "Vagas_Ocupadas": 7
+    "Curso": "CIÊNCIAS CONTÁBEIS - BEL - NOTURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 67.14,
+    "Nota_Último": 28.5,
+    "Nota_Corte": 28.5,
+    "Vagas_Oferecidas": 31,
+    "Vagas_Ocupadas": 37
   },
   {
     "Código": 304,
-    "Curso": "CIÊNCIAS ECONÔMICAS - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 56.24,
-    "Nota_Último": 46.05,
-    "Vagas_Oferecidas": 4,
-    "Vagas_Ocupadas": 9
+    "Curso": "CIÊNCIAS ECONÔMICAS - BEL - MATUTINO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 75.69,
+    "Nota_Último": 46.2,
+    "Nota_Corte": 46.2,
+    "Vagas_Oferecidas": 31,
+    "Vagas_Ocupadas": 54
   },
   {
     "Código": 318,
-    "Curso": "CIÊNCIAS ECONÔMICAS - NOTURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 65.99,
-    "Nota_Último": 55.29,
-    "Vagas_Oferecidas": 4,
-    "Vagas_Ocupadas": 4
+    "Curso": "CIÊNCIAS ECONÔMICAS - BEL - NOTURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 65.88,
+    "Nota_Último": 24.74,
+    "Nota_Corte": 24.74,
+    "Vagas_Oferecidas": 31,
+    "Vagas_Ocupadas": 54
   },
   {
     "Código": 310,
-    "Curso": "CIÊNCIAS SOCIAIS - BEL/LIC - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 55.27,
-    "Nota_Último": 44.99,
-    "Vagas_Oferecidas": 4,
-    "Vagas_Ocupadas": 4
+    "Curso": "CIÊNCIAS SOCIAIS - MATUTINO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 66.87,
+    "Nota_Último": 25.15,
+    "Nota_Corte": 25.15,
+    "Vagas_Oferecidas": 15,
+    "Vagas_Ocupadas": 22
+  },
+  {
+    "Código": 320,
+    "Curso": "CIÊNCIAS SOCIAIS - NOTURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 60.47,
+    "Nota_Último": 34.01,
+    "Nota_Corte": 34.01,
+    "Vagas_Oferecidas": 17,
+    "Vagas_Ocupadas": 17
   },
   {
     "Código": 450,
-    "Curso": "CINEMA - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 66.04,
-    "Nota_Último": 55.81,
-    "Vagas_Oferecidas": 3,
-    "Vagas_Ocupadas": 4
+    "Curso": "CINEMA - BEL - INTEGRAL - FLORIANÓPOLIS",
+    "Nota_Primeiro": 72.55,
+    "Nota_Último": 64.99,
+    "Nota_Corte": 64.99,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 10
   },
   {
     "Código": 454,
-    "Curso": "DESIGN - DIURNO/NOTURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 76.28,
-    "Nota_Último": 67.11,
-    "Vagas_Oferecidas": 3,
-    "Vagas_Ocupadas": 3
+    "Curso": "DESIGN - BEL - INTEGRAL - FLORIANÓPOLIS",
+    "Nota_Primeiro": 82.55,
+    "Nota_Último": 66.68,
+    "Nota_Corte": 66.68,
+    "Vagas_Oferecidas": 14,
+    "Vagas_Ocupadas": 14
   },
   {
     "Código": 452,
-    "Curso": "DESIGN DE PRODUTO - DIURNO/NOTURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 75.8,
-    "Nota_Último": 66.01,
-    "Vagas_Oferecidas": 2,
-    "Vagas_Ocupadas": 2
+    "Curso": "DESIGN DE PRODUTO - BEL - INTEGRAL - FLORIANÓPOLIS",
+    "Nota_Primeiro": 69.05,
+    "Nota_Último": 26.6,
+    "Nota_Corte": 26.6,
+    "Vagas_Oferecidas": 14,
+    "Vagas_Ocupadas": 27
   },
   {
     "Código": 303,
-    "Curso": "DIREITO - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 80.09,
-    "Nota_Último": 66.54,
-    "Vagas_Oferecidas": 4,
-    "Vagas_Ocupadas": 4
+    "Curso": "DIREITO - BEL - MATUTINO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 82.63,
+    "Nota_Último": 71.47,
+    "Nota_Corte": 71.47,
+    "Vagas_Oferecidas": 31,
+    "Vagas_Ocupadas": 31
   },
   {
     "Código": 5,
-    "Curso": "DIREITO - NOTURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 77.15,
-    "Nota_Último": 68.82,
-    "Vagas_Oferecidas": 4,
-    "Vagas_Ocupadas": 4
+    "Curso": "DIREITO - BEL - NOTURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 78.61,
+    "Nota_Último": 65.69,
+    "Nota_Corte": 65.69,
+    "Vagas_Oferecidas": 31,
+    "Vagas_Ocupadas": 31
   },
   {
     "Código": 444,
-    "Curso": "EDUCAÇÃO FÍSICA - BEL - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 56.33,
-    "Nota_Último": 51.37,
-    "Vagas_Oferecidas": 3,
-    "Vagas_Ocupadas": 3
+    "Curso": "EDUCAÇÃO FÍSICA - BEL - MATUTINO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 68.85,
+    "Nota_Último": 55.81,
+    "Nota_Corte": 55.81,
+    "Vagas_Oferecidas": 21,
+    "Vagas_Ocupadas": 21
   },
   {
     "Código": 404,
-    "Curso": "EDUCAÇÃO FÍSICA - LIC - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 51.42,
-    "Nota_Último": 35.5,
-    "Vagas_Oferecidas": 3,
-    "Vagas_Ocupadas": 2
+    "Curso": "EDUCAÇÃO FÍSICA - LIC - VESPERTINO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 62.76,
+    "Nota_Último": 39.24,
+    "Nota_Corte": 39.24,
+    "Vagas_Oferecidas": 21,
+    "Vagas_Ocupadas": 28
   },
   {
     "Código": 101,
-    "Curso": "ENFERMAGEM - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 71.96,
-    "Nota_Último": 63.52,
-    "Vagas_Oferecidas": 4,
-    "Vagas_Ocupadas": 4
+    "Curso": "ENFERMAGEM - BEL - INTEGRAL - FLORIANÓPOLIS",
+    "Nota_Primeiro": 75.42,
+    "Nota_Último": 54.44,
+    "Nota_Corte": 54.44,
+    "Vagas_Oferecidas": 26,
+    "Vagas_Ocupadas": 26
   },
   {
     "Código": 602,
-    "Curso": "ENGENHARIA AEROESPACIAL - DIURNO/NOTURNO - JOINVILLE",
-    "Nota_Primeiro": 61.53,
-    "Nota_Último": 44.89,
-    "Vagas_Oferecidas": 2,
-    "Vagas_Ocupadas": 4
+    "Curso": "ENGENHARIA AEROESPACIAL - BEL - INTEGRAL - JOINVILLE",
+    "Nota_Primeiro": 83.72,
+    "Nota_Último": 67.97,
+    "Nota_Corte": 67.97,
+    "Vagas_Oferecidas": 17,
+    "Vagas_Ocupadas": 17
   },
   {
     "Código": 603,
-    "Curso": "ENGENHARIA AUTOMOTIVA - DIURNO/NOTURNO - JOINVILLE",
-    "Nota_Primeiro": 42.12,
-    "Nota_Último": 42.12,
-    "Vagas_Oferecidas": 2,
-    "Vagas_Ocupadas": 1
+    "Curso": "ENGENHARIA AUTOMOTIVA - BEL - INTEGRAL - JOINVILLE",
+    "Nota_Primeiro": 77.59,
+    "Nota_Último": 51.64,
+    "Nota_Corte": 51.64,
+    "Vagas_Oferecidas": 17,
+    "Vagas_Ocupadas": 20
   },
   {
     "Código": 201,
-    "Curso": "ENGENHARIA CIVIL - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 74.94,
-    "Nota_Último": 38.61,
-    "Vagas_Oferecidas": 5,
-    "Vagas_Ocupadas": 11
+    "Curso": "ENGENHARIA CIVIL - BEL - INTEGRAL - FLORIANÓPOLIS",
+    "Nota_Primeiro": 75.68,
+    "Nota_Último": 52.69,
+    "Nota_Corte": 52.69,
+    "Vagas_Oferecidas": 38,
+    "Vagas_Ocupadas": 43
   },
   {
     "Código": 607,
     "Curso": "ENGENHARIA CIVIL DE INFRAESTRUTURA - JOINVILLE",
-    "Nota_Primeiro": 54.49,
-    "Nota_Último": 46.45,
-    "Vagas_Oferecidas": 2,
-    "Vagas_Ocupadas": 3
+    "Nota_Primeiro": 67.94,
+    "Nota_Último": 26.4,
+    "Nota_Corte": 26.4,
+    "Vagas_Oferecidas": 17,
+    "Vagas_Ocupadas": 33
   },
   {
     "Código": 215,
-    "Curso": "ENGENHARIA DE ALIMENTOS - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 65.5,
-    "Nota_Último": 45.1,
-    "Vagas_Oferecidas": 2,
-    "Vagas_Ocupadas": 4
+    "Curso": "ENGENHARIA DE ALIMENTOS - BEL - INTEGRAL - FLORIANÓPOLIS",
+    "Nota_Primeiro": 67.85,
+    "Nota_Último": 32.91,
+    "Nota_Corte": 32.91,
+    "Vagas_Oferecidas": 17,
+    "Vagas_Ocupadas": 21
+  },
+  {
+    "Código": 234,
+    "Curso": "ENGENHARIA DE AQUICULTURA - INTEGRAL - FLORIANÓPOLIS",
+    "Nota_Primeiro": 53.03,
+    "Nota_Último": 32.39,
+    "Nota_Corte": 32.39,
+    "Vagas_Oferecidas": 28,
+    "Vagas_Ocupadas": 6
   },
   {
     "Código": 655,
-    "Curso": "ENGENHARIA DE COMPUTAÇÃO-DIURNO/NOTURNO - ARARANGUÁ",
-    "Nota_Primeiro": 32.05,
-    "Nota_Último": 26.75,
-    "Vagas_Oferecidas": 3,
-    "Vagas_Ocupadas": 3
+    "Curso": "ENGENHARIA DE COMPUTAÇÃO - INTEGRAL - ARARANGUÁ",
+    "Nota_Primeiro": 75.67,
+    "Nota_Último": 55.6,
+    "Nota_Corte": 55.6,
+    "Vagas_Oferecidas": 21,
+    "Vagas_Ocupadas": 21
   },
   {
     "Código": 754,
     "Curso": "ENGENHARIA DE CONTROLE E AUTOMAÇÃO - BLUMENAU",
-    "Nota_Primeiro": 43.84,
-    "Nota_Último": 42.86,
-    "Vagas_Oferecidas": 5,
-    "Vagas_Ocupadas": 2
+    "Nota_Primeiro": 76.64,
+    "Nota_Último": 36.02,
+    "Nota_Corte": 36.02,
+    "Vagas_Oferecidas": 35,
+    "Vagas_Ocupadas": 28
   },
   {
     "Código": 220,
     "Curso": "ENGENHARIA DE CONTROLE E AUTOMAÇÃO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 67.37,
-    "Nota_Último": 49.96,
-    "Vagas_Oferecidas": 3,
-    "Vagas_Ocupadas": 5
+    "Nota_Primeiro": 76.77,
+    "Nota_Último": 53.34,
+    "Nota_Corte": 53.34,
+    "Vagas_Oferecidas": 25,
+    "Vagas_Ocupadas": 44
   },
   {
     "Código": 653,
-    "Curso": "ENGENHARIA DE ENERGIA - DIURNO/NOTURNO - ARARANGUÁ",
-    "Nota_Primeiro": 45.03,
-    "Nota_Último": 35.07,
-    "Vagas_Oferecidas": 3,
-    "Vagas_Ocupadas": 4
+    "Curso": "ENGENHARIA DE ENERGIA - BEL - INTEGRAL - ARARANGUÁ",
+    "Nota_Primeiro": 63.45,
+    "Nota_Último": 28.48,
+    "Nota_Corte": 28.48,
+    "Vagas_Oferecidas": 21,
+    "Vagas_Ocupadas": 21
+  },
+  {
+    "Código": 753,
+    "Curso": "ENGENHARIA DE MATERIAIS - BEL - INTEGRAL - BLUMENAU",
+    "Nota_Primeiro": 49.69,
+    "Nota_Último": 25.15,
+    "Nota_Corte": 25.15,
+    "Vagas_Oferecidas": 35,
+    "Vagas_Ocupadas": 6
   },
   {
     "Código": 236,
-    "Curso": "ENGENHARIA DE MATERIAIS - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 45.49,
-    "Nota_Último": 39.34,
-    "Vagas_Oferecidas": 3,
-    "Vagas_Ocupadas": 3
+    "Curso": "ENGENHARIA DE MATERIAIS - BEL - INTEGRAL - FLORIANÓPOLIS",
+    "Nota_Primeiro": 74.77,
+    "Nota_Último": 32.03,
+    "Nota_Corte": 32.03,
+    "Vagas_Oferecidas": 24,
+    "Vagas_Ocupadas": 24
   },
   {
     "Código": 212,
-    "Curso": "ENGENHARIA DE PRODUÇÃO CIVIL - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 62.66,
-    "Nota_Último": 33.72,
-    "Vagas_Oferecidas": 2,
-    "Vagas_Ocupadas": 3
+    "Curso": "ENGENHARIA DE PRODUÇÃO CIVIL - INTEGRAL - FLORIANÓPOLIS",
+    "Nota_Primeiro": 68.75,
+    "Nota_Último": 39.71,
+    "Nota_Corte": 39.71,
+    "Vagas_Oferecidas": 14,
+    "Vagas_Ocupadas": 20
   },
   {
     "Código": 213,
-    "Curso": "ENGENHARIA DE PRODUÇÃO ELÉTRICA - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 51.65,
-    "Nota_Último": 44.84,
-    "Vagas_Oferecidas": 2,
-    "Vagas_Ocupadas": 2
+    "Curso": "ENGENHARIA DE PRODUÇÃO ELÉTRICA - INTEGR - FLORIANÓPOLIS",
+    "Nota_Primeiro": 70.88,
+    "Nota_Último": 38.61,
+    "Nota_Corte": 38.61,
+    "Vagas_Oferecidas": 14,
+    "Vagas_Ocupadas": 14
   },
   {
     "Código": 214,
-    "Curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 67.46,
-    "Nota_Último": 57.88,
-    "Vagas_Oferecidas": 2,
-    "Vagas_Ocupadas": 3
+    "Curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - INTEGR - FLORIANÓPOLIS",
+    "Nota_Primeiro": 80.6,
+    "Nota_Último": 55.18,
+    "Nota_Corte": 55.18,
+    "Vagas_Oferecidas": 14,
+    "Vagas_Ocupadas": 24
+  },
+  {
+    "Código": 608,
+    "Curso": "ENGENHARIA DE TRANSPORTES E LOGÍSTICA - JOINVILLE",
+    "Nota_Primeiro": 58.46,
+    "Nota_Último": 30.38,
+    "Nota_Corte": 30.38,
+    "Vagas_Oferecidas": 17,
+    "Vagas_Ocupadas": 12
   },
   {
     "Código": 202,
-    "Curso": "ENGENHARIA ELÉTRICA - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 59.05,
-    "Nota_Último": 42.23,
-    "Vagas_Oferecidas": 5,
-    "Vagas_Ocupadas": 9
+    "Curso": "ENGENHARIA ELÉTRICA - BEL - INTEGRAL - FLORIANÓPOLIS",
+    "Nota_Primeiro": 81.2,
+    "Nota_Último": 47.35,
+    "Nota_Corte": 47.35,
+    "Vagas_Oferecidas": 35,
+    "Vagas_Ocupadas": 55
   },
   {
     "Código": 235,
-    "Curso": "ENGENHARIA ELETRÔNICA - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 73.86,
-    "Nota_Último": 48.11,
-    "Vagas_Oferecidas": 3,
-    "Vagas_Ocupadas": 3
+    "Curso": "ENGENHARIA ELETRÔNICA - BEL - INTEGRAL - FLORIANÓPOLIS",
+    "Nota_Primeiro": 70.57,
+    "Nota_Último": 42.69,
+    "Nota_Corte": 42.69,
+    "Vagas_Oferecidas": 21,
+    "Vagas_Ocupadas": 38
   },
   {
     "Código": 604,
     "Curso": "ENGENHARIA FERROVIÁRIA E METROVIÁRIA - JOINVILLE",
-    "Nota_Primeiro": 54.2,
-    "Nota_Último": 54.2,
-    "Vagas_Oferecidas": 2,
-    "Vagas_Ocupadas": 1
+    "Nota_Primeiro": 52.7,
+    "Nota_Último": 30.86,
+    "Nota_Corte": 30.86,
+    "Vagas_Oferecidas": 14,
+    "Vagas_Ocupadas": 5
+  },
+  {
+    "Código": 553,
+    "Curso": "ENGENHARIA FLORESTAL - BEL - INTEGRAL - CURITIBANOS",
+    "Nota_Primeiro": 81.18,
+    "Nota_Último": 33.81,
+    "Nota_Corte": 33.81,
+    "Vagas_Oferecidas": 21,
+    "Vagas_Ocupadas": 12
   },
   {
     "Código": 203,
-    "Curso": "ENGENHARIA MECÂNICA - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 77.34,
-    "Nota_Último": 54.48,
-    "Vagas_Oferecidas": 5,
-    "Vagas_Ocupadas": 9
+    "Curso": "ENGENHARIA MECÂNICA - BEL - INTEGRAL - FLORIANÓPOLIS",
+    "Nota_Primeiro": 90.75,
+    "Nota_Último": 59.26,
+    "Nota_Corte": 59.26,
+    "Vagas_Oferecidas": 38,
+    "Vagas_Ocupadas": 50
   },
   {
     "Código": 605,
-    "Curso": "ENGENHARIA MECATRÔNICA - DIURNO/NOTURNO - JOINVILLE",
-    "Nota_Primeiro": 45.6,
-    "Nota_Último": 38.8,
-    "Vagas_Oferecidas": 2,
-    "Vagas_Ocupadas": 2
+    "Curso": "ENGENHARIA MECATRÔNICA - BEL - INTEGRAL - JOINVILLE",
+    "Nota_Primeiro": 77.98,
+    "Nota_Último": 60.1,
+    "Nota_Corte": 60.1,
+    "Vagas_Oferecidas": 17,
+    "Vagas_Ocupadas": 18
   },
   {
     "Código": 606,
-    "Curso": "ENGENHARIA NAVAL - DIURNO/NOTURNO - JOINVILLE",
-    "Nota_Primeiro": 51.82,
-    "Nota_Último": 51.82,
-    "Vagas_Oferecidas": 2,
-    "Vagas_Ocupadas": 1
+    "Curso": "ENGENHARIA NAVAL - BEL - INTEGRAL - JOINVILLE",
+    "Nota_Primeiro": 70.9,
+    "Nota_Último": 32.54,
+    "Nota_Corte": 32.54,
+    "Vagas_Oferecidas": 17,
+    "Vagas_Ocupadas": 33
   },
   {
     "Código": 216,
-    "Curso": "ENGENHARIA QUÍMICA - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 67.75,
-    "Nota_Último": 61.99,
-    "Vagas_Oferecidas": 2,
-    "Vagas_Ocupadas": 3
+    "Curso": "ENGENHARIA QUÍMICA - BEL - INTEGRAL - FLORIANÓPOLIS",
+    "Nota_Primeiro": 75.58,
+    "Nota_Último": 60.66,
+    "Nota_Corte": 60.66,
+    "Vagas_Oferecidas": 17,
+    "Vagas_Ocupadas": 22
   },
   {
     "Código": 211,
-    "Curso": "ENGENHARIA SANITÁRIA E AMBIENTAL-DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 48.42,
-    "Nota_Último": 32.75,
-    "Vagas_Oferecidas": 4,
-    "Vagas_Ocupadas": 6
+    "Curso": "ENGENHARIA SANITÁRIA E AMBIENTAL-INTEGRA - FLORIANÓPOLIS",
+    "Nota_Primeiro": 70.63,
+    "Nota_Último": 29.42,
+    "Nota_Corte": 29.42,
+    "Vagas_Oferecidas": 31,
+    "Vagas_Ocupadas": 51
+  },
+  {
+    "Código": 755,
+    "Curso": "ENGENHARIA TÊXTIL - BEL - MATUTINO - BLUMENAU",
+    "Nota_Primeiro": 60.11,
+    "Nota_Último": 30.8,
+    "Nota_Corte": 30.8,
+    "Vagas_Oferecidas": 35,
+    "Vagas_Ocupadas": 8
   },
   {
     "Código": 102,
-    "Curso": "FARMÁCIA - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 66.97,
-    "Nota_Último": 47.5,
-    "Vagas_Oferecidas": 6,
-    "Vagas_Ocupadas": 6
+    "Curso": "FARMÁCIA - BEL - INTEGRAL - FLORIANÓPOLIS",
+    "Nota_Primeiro": 75.96,
+    "Nota_Último": 48.67,
+    "Nota_Corte": 48.67,
+    "Vagas_Oferecidas": 45,
+    "Vagas_Ocupadas": 55
   },
   {
     "Código": 323,
     "Curso": "FILOSOFIA - BEL - NOTURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 54.47,
-    "Nota_Último": 36.37,
-    "Vagas_Oferecidas": 4,
-    "Vagas_Ocupadas": 4
+    "Nota_Primeiro": 66.52,
+    "Nota_Último": 34.35,
+    "Nota_Corte": 34.35,
+    "Vagas_Oferecidas": 13,
+    "Vagas_Ocupadas": 20
   },
   {
     "Código": 307,
     "Curso": "FILOSOFIA - LIC - VESPERTINO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 34.29,
-    "Nota_Último": 34.29,
-    "Vagas_Oferecidas": 4,
-    "Vagas_Ocupadas": 1
+    "Nota_Primeiro": 80.32,
+    "Nota_Último": 29.3,
+    "Nota_Corte": 29.3,
+    "Vagas_Oferecidas": 13,
+    "Vagas_Ocupadas": 19
   },
   {
     "Código": 2,
-    "Curso": "FÍSICA - BEL - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 51.97,
-    "Nota_Último": 47.33,
-    "Vagas_Oferecidas": 5,
-    "Vagas_Ocupadas": 2
+    "Curso": "FÍSICA - BEL - INTEGRAL - FLORIANÓPOLIS",
+    "Nota_Primeiro": 82.39,
+    "Nota_Último": 40.36,
+    "Nota_Corte": 40.36,
+    "Vagas_Oferecidas": 19,
+    "Vagas_Ocupadas": 37
   },
   {
     "Código": 225,
     "Curso": "FÍSICA - LIC - NOTURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 67.05,
-    "Nota_Último": 34.02,
-    "Vagas_Oferecidas": 7,
-    "Vagas_Ocupadas": 4
+    "Nota_Primeiro": 68.65,
+    "Nota_Último": 40.86,
+    "Nota_Corte": 40.86,
+    "Vagas_Oferecidas": 26,
+    "Vagas_Ocupadas": 8
   },
   {
     "Código": 654,
-    "Curso": "FISIOTERAPIA - DIURNO - ARARANGUÁ",
-    "Nota_Primeiro": 57.44,
-    "Nota_Último": 40.05,
-    "Vagas_Oferecidas": 3,
-    "Vagas_Ocupadas": 6
+    "Curso": "FISIOTERAPIA - BEL - INTEGRAL - ARARANGUÁ",
+    "Nota_Primeiro": 69.65,
+    "Nota_Último": 49.81,
+    "Nota_Corte": 49.81,
+    "Vagas_Oferecidas": 21,
+    "Vagas_Ocupadas": 21
   },
   {
     "Código": 109,
-    "Curso": "FONOAUDIOLOGIA - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 52.41,
-    "Nota_Último": 38.4,
-    "Vagas_Oferecidas": 4,
-    "Vagas_Ocupadas": 5
+    "Curso": "FONOAUDIOLOGIA - BEL - INTEGRAL - FLORIANÓPOLIS",
+    "Nota_Primeiro": 60.73,
+    "Nota_Último": 47.33,
+    "Nota_Corte": 47.33,
+    "Vagas_Oferecidas": 14,
+    "Vagas_Ocupadas": 15
   },
   {
     "Código": 331,
-    "Curso": "GEOGRAFIA - BEL/LIC - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 43.75,
-    "Nota_Último": 33.48,
-    "Vagas_Oferecidas": 4,
-    "Vagas_Ocupadas": 4
+    "Curso": "GEOGRAFIA - MATUTINO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 59.36,
+    "Nota_Último": 35.81,
+    "Nota_Corte": 35.81,
+    "Vagas_Oferecidas": 14,
+    "Vagas_Ocupadas": 14
+  },
+  {
+    "Código": 332,
+    "Curso": "GEOGRAFIA - NOTURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 66.76,
+    "Nota_Último": 31.28,
+    "Nota_Corte": 31.28,
+    "Vagas_Oferecidas": 14,
+    "Vagas_Ocupadas": 20
   },
   {
     "Código": 336,
-    "Curso": "GEOLOGIA - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 37.02,
-    "Nota_Último": 37.02,
-    "Vagas_Oferecidas": 3,
-    "Vagas_Ocupadas": 1
+    "Curso": "GEOLOGIA - BEL - INTEGRAL - FLORIANÓPOLIS",
+    "Nota_Primeiro": 65.4,
+    "Nota_Último": 30.84,
+    "Nota_Corte": 30.84,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 17
   },
   {
     "Código": 326,
-    "Curso": "HISTÓRIA - BEL/LIC - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 61.17,
-    "Nota_Último": 55.41,
-    "Vagas_Oferecidas": 4,
-    "Vagas_Ocupadas": 5
+    "Curso": "HISTÓRIA - MATUTINO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 73.61,
+    "Nota_Último": 51.61,
+    "Nota_Corte": 51.61,
+    "Vagas_Oferecidas": 16,
+    "Vagas_Ocupadas": 25
+  },
+  {
+    "Código": 327,
+    "Curso": "HISTÓRIA - NOTURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 69.96,
+    "Nota_Último": 30.33,
+    "Nota_Corte": 30.33,
+    "Vagas_Oferecidas": 16,
+    "Vagas_Ocupadas": 32
   },
   {
     "Código": 415,
-    "Curso": "JORNALISMO - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 62.26,
-    "Nota_Último": 59.36,
-    "Vagas_Oferecidas": 3,
-    "Vagas_Ocupadas": 3
-  },
-  {
-    "Código": 460,
-    "Curso": "LETRAS - ALEMÃO - ABI - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 51.53,
-    "Nota_Último": 32.29,
-    "Vagas_Oferecidas": 4,
-    "Vagas_Ocupadas": 4
-  },
-  {
-    "Código": 463,
-    "Curso": "LETRAS - ESPANHOL - ABI - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 42.06,
-    "Nota_Último": 38.71,
-    "Vagas_Oferecidas": 4,
-    "Vagas_Ocupadas": 2
-  },
-  {
-    "Código": 466,
-    "Curso": "LETRAS - FRANCÊS - ABI - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 46.79,
-    "Nota_Último": 38.64,
-    "Vagas_Oferecidas": 4,
-    "Vagas_Ocupadas": 3
-  },
-  {
-    "Código": 469,
-    "Curso": "LETRAS - INGLÊS - ABI - BEL/LIC - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 65.26,
-    "Nota_Último": 48.75,
-    "Vagas_Oferecidas": 4,
-    "Vagas_Ocupadas": 6
+    "Curso": "JORNALISMO - BEL - INTEGRAL - FLORIANÓPOLIS",
+    "Nota_Primeiro": 83.86,
+    "Nota_Último": 67.4,
+    "Nota_Corte": 67.4,
+    "Vagas_Oferecidas": 21,
+    "Vagas_Ocupadas": 21
   },
   {
     "Código": 428,
-    "Curso": "LETRAS - PORTUGUÊS - BEL/LIC - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 60.93,
-    "Nota_Último": 53.68,
-    "Vagas_Oferecidas": 4,
-    "Vagas_Ocupadas": 5
+    "Curso": "LETRAS - PORTUGUÊS - INTEGRAL - FLORIANÓPOLIS",
+    "Nota_Primeiro": 81.32,
+    "Nota_Último": 38.93,
+    "Nota_Corte": 38.93,
+    "Vagas_Oferecidas": 28,
+    "Vagas_Ocupadas": 24
+  },
+  {
+    "Código": 426,
+    "Curso": "LETRAS - PORTUGUÊS - NOTURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 71.77,
+    "Nota_Último": 36.15,
+    "Nota_Corte": 36.15,
+    "Vagas_Oferecidas": 14,
+    "Vagas_Ocupadas": 26
+  },
+  {
+    "Código": 222,
+    "Curso": "MATEMÁTICA - BEL - INTEGRAL - FLORIANÓPOLIS",
+    "Nota_Primeiro": 70.51,
+    "Nota_Último": 33.18,
+    "Nota_Corte": 33.18,
+    "Vagas_Oferecidas": 14,
+    "Vagas_Ocupadas": 9
+  },
+  {
+    "Código": 756,
+    "Curso": "MATEMÁTICA - LIC - INTEGRAL - BLUMENAU",
+    "Nota_Primeiro": 63.07,
+    "Nota_Último": 47.75,
+    "Nota_Corte": 47.75,
+    "Vagas_Oferecidas": 17,
+    "Vagas_Ocupadas": 3
   },
   {
     "Código": 223,
-    "Curso": "MATEMÁTICA - LIC - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 64.84,
-    "Nota_Último": 37.26,
-    "Vagas_Oferecidas": 5,
-    "Vagas_Ocupadas": 4
+    "Curso": "MATEMÁTICA - LIC - MATUTINO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 62.82,
+    "Nota_Último": 30.12,
+    "Nota_Corte": 30.12,
+    "Vagas_Oferecidas": 38,
+    "Vagas_Ocupadas": 14
   },
   {
-    "Código": 103,
-    "Curso": "MEDICINA - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 87.26,
-    "Nota_Último": 84.13,
-    "Vagas_Oferecidas": 5,
-    "Vagas_Ocupadas": 5
-  },
-  {
-    "Código": 552,
-    "Curso": "MEDICINA VETERINÁRIA - DIURNO - CURITIBANOS",
-    "Nota_Primeiro": 50.94,
-    "Nota_Último": 45.55,
-    "Vagas_Oferecidas": 4,
-    "Vagas_Ocupadas": 4
-  },
-  {
-    "Código": 230,
-    "Curso": "METEOROLOGIA - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 55.7,
-    "Nota_Último": 30.61,
-    "Vagas_Oferecidas": 3,
-    "Vagas_Ocupadas": 2
-  },
-  {
-    "Código": 338,
-    "Curso": "MUSEOLOGIA - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 38.75,
-    "Nota_Último": 38.75,
-    "Vagas_Oferecidas": 3,
-    "Vagas_Ocupadas": 1
-  },
-  {
-    "Código": 9,
-    "Curso": "NUTRIÇÃO - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 75.04,
-    "Nota_Último": 58.64,
-    "Vagas_Oferecidas": 4,
-    "Vagas_Ocupadas": 4
-  },
-  {
-    "Código": 104,
-    "Curso": "ODONTOLOGIA - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 77.22,
-    "Nota_Último": 59.52,
-    "Vagas_Oferecidas": 5,
-    "Vagas_Ocupadas": 5
-  },
-  {
-    "Código": 308,
-    "Curso": "PEDAGOGIA - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 57.54,
-    "Nota_Último": 29.21,
-    "Vagas_Oferecidas": 5,
+    "Código": 751,
+    "Curso": "MATEMÁTICA - LIC - NOTURNO - BLUMENAU",
+    "Nota_Primeiro": 57.38,
+    "Nota_Último": 33.93,
+    "Nota_Corte": 33.93,
+    "Vagas_Oferecidas": 17,
     "Vagas_Ocupadas": 6
   },
   {
+    "Código": 656,
+    "Curso": "MEDICINA - BEL - INTEGRAL - ARARANGUÁ",
+    "Nota_Primeiro": 86.84,
+    "Nota_Último": 81.88,
+    "Nota_Corte": 81.88,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 10
+  },
+  {
+    "Código": 103,
+    "Curso": "MEDICINA - BEL - INTEGRAL - FLORIANÓPOLIS",
+    "Nota_Primeiro": 90.82,
+    "Nota_Último": 84.24,
+    "Nota_Corte": 84.24,
+    "Vagas_Oferecidas": 35,
+    "Vagas_Ocupadas": 35
+  },
+  {
+    "Código": 552,
+    "Curso": "MEDICINA VETERINÁRIA - BEL - INTEGRAL - CURITIBANOS",
+    "Nota_Primeiro": 76.09,
+    "Nota_Último": 53.34,
+    "Nota_Corte": 53.34,
+    "Vagas_Oferecidas": 28,
+    "Vagas_Ocupadas": 28
+  },
+  {
+    "Código": 230,
+    "Curso": "METEOROLOGIA - BEL - INTEGRAL - FLORIANÓPOLIS",
+    "Nota_Primeiro": 74.05,
+    "Nota_Último": 42.21,
+    "Nota_Corte": 42.21,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 5
+  },
+  {
+    "Código": 338,
+    "Curso": "MUSEOLOGIA - BEL - INTEGRAL - FLORIANÓPOLIS",
+    "Nota_Primeiro": 68.8,
+    "Nota_Último": 25.59,
+    "Nota_Corte": 25.59,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 15
+  },
+  {
+    "Código": 9,
+    "Curso": "NUTRIÇÃO - BEL - INTEGRAL - FLORIANÓPOLIS",
+    "Nota_Primeiro": 75.62,
+    "Nota_Último": 65.96,
+    "Nota_Corte": 65.96,
+    "Vagas_Oferecidas": 16,
+    "Vagas_Ocupadas": 16
+  },
+  {
+    "Código": 333,
+    "Curso": "OCEANOGRAFIA - BEL - INTEGRAL - FLORIANÓPOLIS",
+    "Nota_Primeiro": 71.15,
+    "Nota_Último": 31.79,
+    "Nota_Corte": 31.79,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 20
+  },
+  {
+    "Código": 104,
+    "Curso": "ODONTOLOGIA - BEL - INTEGRAL - FLORIANÓPOLIS",
+    "Nota_Primeiro": 77.22,
+    "Nota_Último": 62.04,
+    "Nota_Corte": 62.04,
+    "Vagas_Oferecidas": 35,
+    "Vagas_Ocupadas": 35
+  },
+  {
+    "Código": 308,
+    "Curso": "PEDAGOGIA - LIC - VESPERTINO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 72.36,
+    "Nota_Último": 25.06,
+    "Nota_Corte": 25.06,
+    "Vagas_Oferecidas": 35,
+    "Vagas_Ocupadas": 63
+  },
+  {
     "Código": 319,
-    "Curso": "PSICOLOGIA - BEL/LIC - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 81.42,
-    "Nota_Último": 75.61,
-    "Vagas_Oferecidas": 4,
-    "Vagas_Ocupadas": 4
+    "Curso": "PSICOLOGIA - BEL - INTEGRAL - FLORIANÓPOLIS",
+    "Nota_Primeiro": 79.34,
+    "Nota_Último": 68.66,
+    "Nota_Corte": 68.66,
+    "Vagas_Oferecidas": 31,
+    "Vagas_Ocupadas": 31
+  },
+  {
+    "Código": 757,
+    "Curso": "QUÍMICA - BEL - INTEGRAL - BLUMENAU",
+    "Nota_Primeiro": 64.21,
+    "Nota_Último": 39.79,
+    "Nota_Corte": 39.79,
+    "Vagas_Oferecidas": 17,
+    "Vagas_Ocupadas": 10
   },
   {
     "Código": 226,
-    "Curso": "QUÍMICA - BEL - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 38.28,
-    "Nota_Último": 38.28,
-    "Vagas_Oferecidas": 4,
-    "Vagas_Ocupadas": 1
+    "Curso": "QUÍMICA - BEL - INTEGRAL - FLORIANÓPOLIS",
+    "Nota_Primeiro": 68.02,
+    "Nota_Último": 34.41,
+    "Nota_Corte": 34.41,
+    "Vagas_Oferecidas": 28,
+    "Vagas_Ocupadas": 29
+  },
+  {
+    "Código": 205,
+    "Curso": "QUÍMICA - LIC - INTEGRAL - FLORIANÓPOLIS",
+    "Nota_Primeiro": 58.94,
+    "Nota_Último": 24.28,
+    "Nota_Corte": 24.28,
+    "Vagas_Oferecidas": 14,
+    "Vagas_Ocupadas": 6
+  },
+  {
+    "Código": 752,
+    "Curso": "QUÍMICA - LIC - NOTURNO - BLUMENAU",
+    "Nota_Primeiro": 58.81,
+    "Nota_Último": 28.87,
+    "Nota_Corte": 28.87,
+    "Vagas_Oferecidas": 17,
+    "Vagas_Ocupadas": 7
   },
   {
     "Código": 227,
-    "Curso": "QUÍMICA TECNOLÓGICA - BEL - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 35.03,
-    "Nota_Último": 35.03,
-    "Vagas_Oferecidas": 2,
+    "Curso": "QUÍMICA TECNOLÓGICA - BEL - INTEGRAL - FLORIANÓPOLIS",
+    "Nota_Primeiro": 38.75,
+    "Nota_Último": 38.75,
+    "Nota_Corte": 38.75,
+    "Vagas_Oferecidas": 14,
     "Vagas_Ocupadas": 1
   },
   {
     "Código": 340,
-    "Curso": "RELAÇÕES INTERNACIONAIS - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 75.48,
-    "Nota_Último": 69.03,
-    "Vagas_Oferecidas": 4,
-    "Vagas_Ocupadas": 4
+    "Curso": "RELAÇÕES INTERNACIONAIS - VESPERTINO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 81.75,
+    "Nota_Último": 67.31,
+    "Nota_Corte": 67.31,
+    "Vagas_Oferecidas": 28,
+    "Vagas_Ocupadas": 28
+  },
+  {
+    "Código": 429,
+    "Curso": "SECRETARIADO EXECUTIVO - BEL - NOTURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 48.16,
+    "Nota_Último": 31.8,
+    "Nota_Corte": 31.8,
+    "Vagas_Oferecidas": 14,
+    "Vagas_Ocupadas": 7
   },
   {
     "Código": 309,
-    "Curso": "SERVIÇO SOCIAL - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 59.79,
-    "Nota_Último": 35.3,
-    "Vagas_Oferecidas": 4,
-    "Vagas_Ocupadas": 2
+    "Curso": "SERVIÇO SOCIAL - BEL - MATUTINO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 63.36,
+    "Nota_Último": 28.77,
+    "Nota_Corte": 28.77,
+    "Vagas_Oferecidas": 28,
+    "Vagas_Ocupadas": 27
   },
   {
     "Código": 339,
-    "Curso": "SERVIÇO SOCIAL - NOTURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 51.13,
-    "Nota_Último": 35.01,
-    "Vagas_Oferecidas": 3,
-    "Vagas_Ocupadas": 4
+    "Curso": "SERVIÇO SOCIAL - BEL - NOTURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 63.22,
+    "Nota_Último": 21.54,
+    "Nota_Corte": 21.54,
+    "Vagas_Oferecidas": 21,
+    "Vagas_Ocupadas": 20
   },
   {
     "Código": 238,
-    "Curso": "SISTEMAS DE INFORMAÇÃO - NOTURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 68.31,
-    "Nota_Último": 56.66,
-    "Vagas_Oferecidas": 5,
-    "Vagas_Ocupadas": 5
+    "Curso": "SISTEMA DE INFORMAÇÃO - BEL - NOTURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 73.82,
+    "Nota_Último": 60.11,
+    "Nota_Corte": 60.11,
+    "Vagas_Oferecidas": 35,
+    "Vagas_Ocupadas": 35
   },
   {
     "Código": 652,
     "Curso": "TEC DA INFO. E COMUNICAÇÃO - NOTURNO - ARARANGUÁ",
-    "Nota_Primeiro": 57.05,
-    "Nota_Último": 43.55,
-    "Vagas_Oferecidas": 3,
-    "Vagas_Ocupadas": 5
+    "Nota_Primeiro": 63.58,
+    "Nota_Último": 39.49,
+    "Nota_Corte": 39.49,
+    "Vagas_Oferecidas": 21,
+    "Vagas_Ocupadas": 36
   },
   {
     "Código": 502,
-    "Curso": "ZOOTECNIA - DIURNO - FLORIANÓPOLIS",
-    "Nota_Primeiro": 49.49,
-    "Nota_Último": 35.85,
-    "Vagas_Oferecidas": 3,
-    "Vagas_Ocupadas": 4
+    "Curso": "ZOOTECNIA - BEL - INTEGRAL - FLORIANÓPOLIS",
+    "Nota_Primeiro": 58.95,
+    "Nota_Último": 28.24,
+    "Nota_Corte": 28.24,
+    "Vagas_Oferecidas": 24,
+    "Vagas_Ocupadas": 26
   }
 ]
