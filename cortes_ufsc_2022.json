@@ -1,0 +1,650 @@
+[
+  {
+    "Código": 301,
+    "Curso": "ADMINISTRAÇÃO - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 64.38,
+    "Nota_Último": 43.71,
+    "Vagas_Oferecidas": 5,
+    "Vagas_Ocupadas": 5
+  },
+  {
+    "Código": 316,
+    "Curso": "ADMINISTRAÇÃO - NOTURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 64.41,
+    "Nota_Último": 50.55,
+    "Vagas_Oferecidas": 5,
+    "Vagas_Ocupadas": 5
+  },
+  {
+    "Código": 501,
+    "Curso": "AGRONOMIA - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 49.68,
+    "Nota_Último": 31.35,
+    "Vagas_Oferecidas": 5,
+    "Vagas_Ocupadas": 6
+  },
+  {
+    "Código": 455,
+    "Curso": "ANIMAÇÃO - DIURNO/NOTURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 72.23,
+    "Nota_Último": 62.58,
+    "Vagas_Oferecidas": 2,
+    "Vagas_Ocupadas": 2
+  },
+  {
+    "Código": 337,
+    "Curso": "ANTROPOLOGIA - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 55.28,
+    "Nota_Último": 55.28,
+    "Vagas_Oferecidas": 2,
+    "Vagas_Ocupadas": 1
+  },
+  {
+    "Código": 207,
+    "Curso": "ARQUITETURA E URBANISMO - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 73.86,
+    "Nota_Último": 64.85,
+    "Vagas_Oferecidas": 4,
+    "Vagas_Ocupadas": 4
+  },
+  {
+    "Código": 451,
+    "Curso": "ARTES CÊNICAS - NOTURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 52.37,
+    "Nota_Último": 43.71,
+    "Vagas_Oferecidas": 3,
+    "Vagas_Ocupadas": 5
+  },
+  {
+    "Código": 324,
+    "Curso": "BIBLIOTECONOMIA - NOTURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 49.27,
+    "Nota_Último": 36.08,
+    "Vagas_Oferecidas": 3,
+    "Vagas_Ocupadas": 3
+  },
+  {
+    "Código": 342,
+    "Curso": "CIÊNCIA DA INFORMAÇÃO - DIURNO/NOTURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 46.81,
+    "Nota_Último": 32.57,
+    "Vagas_Oferecidas": 2,
+    "Vagas_Ocupadas": 2
+  },
+  {
+    "Código": 601,
+    "Curso": "CIÊNCIA E TECNOLOGIA - DIURNO/NOTURNO - JOINVILLE",
+    "Nota_Primeiro": 55.89,
+    "Nota_Último": 31.9,
+    "Vagas_Oferecidas": 3,
+    "Vagas_Ocupadas": 3
+  },
+  {
+    "Código": 503,
+    "Curso": "CIÊNCIA E TECNOLOGIA DE ALIMENTOS - FLORIANÓPOLIS",
+    "Nota_Primeiro": 45.12,
+    "Nota_Último": 45.12,
+    "Vagas_Oferecidas": 3,
+    "Vagas_Ocupadas": 1
+  },
+  {
+    "Código": 108,
+    "Curso": "CIÊNCIAS BIOLÓGICAS - BEL/LIC - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 72.48,
+    "Nota_Último": 52.11,
+    "Vagas_Oferecidas": 4,
+    "Vagas_Ocupadas": 6
+  },
+  {
+    "Código": 110,
+    "Curso": "CIÊNCIAS BIOLÓGICAS - LIC - NOTURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 57.78,
+    "Nota_Último": 48.47,
+    "Vagas_Oferecidas": 4,
+    "Vagas_Ocupadas": 4
+  },
+  {
+    "Código": 302,
+    "Curso": "CIÊNCIAS CONTÁBEIS - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 61.43,
+    "Nota_Último": 28.44,
+    "Vagas_Oferecidas": 4,
+    "Vagas_Ocupadas": 7
+  },
+  {
+    "Código": 317,
+    "Curso": "CIÊNCIAS CONTÁBEIS - NOTURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 83.77,
+    "Nota_Último": 30.4,
+    "Vagas_Oferecidas": 4,
+    "Vagas_Ocupadas": 9
+  },
+  {
+    "Código": 208,
+    "Curso": "CIÊNCIAS DA COMPUTAÇÃO - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 78.71,
+    "Nota_Último": 52.52,
+    "Vagas_Oferecidas": 5,
+    "Vagas_Ocupadas": 7
+  },
+  {
+    "Código": 304,
+    "Curso": "CIÊNCIAS ECONÔMICAS - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 56.24,
+    "Nota_Último": 46.05,
+    "Vagas_Oferecidas": 4,
+    "Vagas_Ocupadas": 9
+  },
+  {
+    "Código": 318,
+    "Curso": "CIÊNCIAS ECONÔMICAS - NOTURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 65.99,
+    "Nota_Último": 55.29,
+    "Vagas_Oferecidas": 4,
+    "Vagas_Ocupadas": 4
+  },
+  {
+    "Código": 310,
+    "Curso": "CIÊNCIAS SOCIAIS - BEL/LIC - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 55.27,
+    "Nota_Último": 44.99,
+    "Vagas_Oferecidas": 4,
+    "Vagas_Ocupadas": 4
+  },
+  {
+    "Código": 450,
+    "Curso": "CINEMA - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 66.04,
+    "Nota_Último": 55.81,
+    "Vagas_Oferecidas": 3,
+    "Vagas_Ocupadas": 4
+  },
+  {
+    "Código": 454,
+    "Curso": "DESIGN - DIURNO/NOTURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 76.28,
+    "Nota_Último": 67.11,
+    "Vagas_Oferecidas": 3,
+    "Vagas_Ocupadas": 3
+  },
+  {
+    "Código": 452,
+    "Curso": "DESIGN DE PRODUTO - DIURNO/NOTURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 75.8,
+    "Nota_Último": 66.01,
+    "Vagas_Oferecidas": 2,
+    "Vagas_Ocupadas": 2
+  },
+  {
+    "Código": 303,
+    "Curso": "DIREITO - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 80.09,
+    "Nota_Último": 66.54,
+    "Vagas_Oferecidas": 4,
+    "Vagas_Ocupadas": 4
+  },
+  {
+    "Código": 5,
+    "Curso": "DIREITO - NOTURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 77.15,
+    "Nota_Último": 68.82,
+    "Vagas_Oferecidas": 4,
+    "Vagas_Ocupadas": 4
+  },
+  {
+    "Código": 444,
+    "Curso": "EDUCAÇÃO FÍSICA - BEL - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 56.33,
+    "Nota_Último": 51.37,
+    "Vagas_Oferecidas": 3,
+    "Vagas_Ocupadas": 3
+  },
+  {
+    "Código": 404,
+    "Curso": "EDUCAÇÃO FÍSICA - LIC - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 51.42,
+    "Nota_Último": 35.5,
+    "Vagas_Oferecidas": 3,
+    "Vagas_Ocupadas": 2
+  },
+  {
+    "Código": 101,
+    "Curso": "ENFERMAGEM - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 71.96,
+    "Nota_Último": 63.52,
+    "Vagas_Oferecidas": 4,
+    "Vagas_Ocupadas": 4
+  },
+  {
+    "Código": 602,
+    "Curso": "ENGENHARIA AEROESPACIAL - DIURNO/NOTURNO - JOINVILLE",
+    "Nota_Primeiro": 61.53,
+    "Nota_Último": 44.89,
+    "Vagas_Oferecidas": 2,
+    "Vagas_Ocupadas": 4
+  },
+  {
+    "Código": 603,
+    "Curso": "ENGENHARIA AUTOMOTIVA - DIURNO/NOTURNO - JOINVILLE",
+    "Nota_Primeiro": 42.12,
+    "Nota_Último": 42.12,
+    "Vagas_Oferecidas": 2,
+    "Vagas_Ocupadas": 1
+  },
+  {
+    "Código": 201,
+    "Curso": "ENGENHARIA CIVIL - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 74.94,
+    "Nota_Último": 38.61,
+    "Vagas_Oferecidas": 5,
+    "Vagas_Ocupadas": 11
+  },
+  {
+    "Código": 607,
+    "Curso": "ENGENHARIA CIVIL DE INFRAESTRUTURA - JOINVILLE",
+    "Nota_Primeiro": 54.49,
+    "Nota_Último": 46.45,
+    "Vagas_Oferecidas": 2,
+    "Vagas_Ocupadas": 3
+  },
+  {
+    "Código": 215,
+    "Curso": "ENGENHARIA DE ALIMENTOS - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 65.5,
+    "Nota_Último": 45.1,
+    "Vagas_Oferecidas": 2,
+    "Vagas_Ocupadas": 4
+  },
+  {
+    "Código": 655,
+    "Curso": "ENGENHARIA DE COMPUTAÇÃO-DIURNO/NOTURNO - ARARANGUÁ",
+    "Nota_Primeiro": 32.05,
+    "Nota_Último": 26.75,
+    "Vagas_Oferecidas": 3,
+    "Vagas_Ocupadas": 3
+  },
+  {
+    "Código": 754,
+    "Curso": "ENGENHARIA DE CONTROLE E AUTOMAÇÃO - BLUMENAU",
+    "Nota_Primeiro": 43.84,
+    "Nota_Último": 42.86,
+    "Vagas_Oferecidas": 5,
+    "Vagas_Ocupadas": 2
+  },
+  {
+    "Código": 220,
+    "Curso": "ENGENHARIA DE CONTROLE E AUTOMAÇÃO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 67.37,
+    "Nota_Último": 49.96,
+    "Vagas_Oferecidas": 3,
+    "Vagas_Ocupadas": 5
+  },
+  {
+    "Código": 653,
+    "Curso": "ENGENHARIA DE ENERGIA - DIURNO/NOTURNO - ARARANGUÁ",
+    "Nota_Primeiro": 45.03,
+    "Nota_Último": 35.07,
+    "Vagas_Oferecidas": 3,
+    "Vagas_Ocupadas": 4
+  },
+  {
+    "Código": 236,
+    "Curso": "ENGENHARIA DE MATERIAIS - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 45.49,
+    "Nota_Último": 39.34,
+    "Vagas_Oferecidas": 3,
+    "Vagas_Ocupadas": 3
+  },
+  {
+    "Código": 212,
+    "Curso": "ENGENHARIA DE PRODUÇÃO CIVIL - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 62.66,
+    "Nota_Último": 33.72,
+    "Vagas_Oferecidas": 2,
+    "Vagas_Ocupadas": 3
+  },
+  {
+    "Código": 213,
+    "Curso": "ENGENHARIA DE PRODUÇÃO ELÉTRICA - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 51.65,
+    "Nota_Último": 44.84,
+    "Vagas_Oferecidas": 2,
+    "Vagas_Ocupadas": 2
+  },
+  {
+    "Código": 214,
+    "Curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 67.46,
+    "Nota_Último": 57.88,
+    "Vagas_Oferecidas": 2,
+    "Vagas_Ocupadas": 3
+  },
+  {
+    "Código": 202,
+    "Curso": "ENGENHARIA ELÉTRICA - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 59.05,
+    "Nota_Último": 42.23,
+    "Vagas_Oferecidas": 5,
+    "Vagas_Ocupadas": 9
+  },
+  {
+    "Código": 235,
+    "Curso": "ENGENHARIA ELETRÔNICA - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 73.86,
+    "Nota_Último": 48.11,
+    "Vagas_Oferecidas": 3,
+    "Vagas_Ocupadas": 3
+  },
+  {
+    "Código": 604,
+    "Curso": "ENGENHARIA FERROVIÁRIA E METROVIÁRIA - JOINVILLE",
+    "Nota_Primeiro": 54.2,
+    "Nota_Último": 54.2,
+    "Vagas_Oferecidas": 2,
+    "Vagas_Ocupadas": 1
+  },
+  {
+    "Código": 203,
+    "Curso": "ENGENHARIA MECÂNICA - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 77.34,
+    "Nota_Último": 54.48,
+    "Vagas_Oferecidas": 5,
+    "Vagas_Ocupadas": 9
+  },
+  {
+    "Código": 605,
+    "Curso": "ENGENHARIA MECATRÔNICA - DIURNO/NOTURNO - JOINVILLE",
+    "Nota_Primeiro": 45.6,
+    "Nota_Último": 38.8,
+    "Vagas_Oferecidas": 2,
+    "Vagas_Ocupadas": 2
+  },
+  {
+    "Código": 606,
+    "Curso": "ENGENHARIA NAVAL - DIURNO/NOTURNO - JOINVILLE",
+    "Nota_Primeiro": 51.82,
+    "Nota_Último": 51.82,
+    "Vagas_Oferecidas": 2,
+    "Vagas_Ocupadas": 1
+  },
+  {
+    "Código": 216,
+    "Curso": "ENGENHARIA QUÍMICA - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 67.75,
+    "Nota_Último": 61.99,
+    "Vagas_Oferecidas": 2,
+    "Vagas_Ocupadas": 3
+  },
+  {
+    "Código": 211,
+    "Curso": "ENGENHARIA SANITÁRIA E AMBIENTAL-DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 48.42,
+    "Nota_Último": 32.75,
+    "Vagas_Oferecidas": 4,
+    "Vagas_Ocupadas": 6
+  },
+  {
+    "Código": 102,
+    "Curso": "FARMÁCIA - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 66.97,
+    "Nota_Último": 47.5,
+    "Vagas_Oferecidas": 6,
+    "Vagas_Ocupadas": 6
+  },
+  {
+    "Código": 323,
+    "Curso": "FILOSOFIA - BEL - NOTURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 54.47,
+    "Nota_Último": 36.37,
+    "Vagas_Oferecidas": 4,
+    "Vagas_Ocupadas": 4
+  },
+  {
+    "Código": 307,
+    "Curso": "FILOSOFIA - LIC - VESPERTINO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 34.29,
+    "Nota_Último": 34.29,
+    "Vagas_Oferecidas": 4,
+    "Vagas_Ocupadas": 1
+  },
+  {
+    "Código": 2,
+    "Curso": "FÍSICA - BEL - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 51.97,
+    "Nota_Último": 47.33,
+    "Vagas_Oferecidas": 5,
+    "Vagas_Ocupadas": 2
+  },
+  {
+    "Código": 225,
+    "Curso": "FÍSICA - LIC - NOTURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 67.05,
+    "Nota_Último": 34.02,
+    "Vagas_Oferecidas": 7,
+    "Vagas_Ocupadas": 4
+  },
+  {
+    "Código": 654,
+    "Curso": "FISIOTERAPIA - DIURNO - ARARANGUÁ",
+    "Nota_Primeiro": 57.44,
+    "Nota_Último": 40.05,
+    "Vagas_Oferecidas": 3,
+    "Vagas_Ocupadas": 6
+  },
+  {
+    "Código": 109,
+    "Curso": "FONOAUDIOLOGIA - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 52.41,
+    "Nota_Último": 38.4,
+    "Vagas_Oferecidas": 4,
+    "Vagas_Ocupadas": 5
+  },
+  {
+    "Código": 331,
+    "Curso": "GEOGRAFIA - BEL/LIC - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 43.75,
+    "Nota_Último": 33.48,
+    "Vagas_Oferecidas": 4,
+    "Vagas_Ocupadas": 4
+  },
+  {
+    "Código": 336,
+    "Curso": "GEOLOGIA - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 37.02,
+    "Nota_Último": 37.02,
+    "Vagas_Oferecidas": 3,
+    "Vagas_Ocupadas": 1
+  },
+  {
+    "Código": 326,
+    "Curso": "HISTÓRIA - BEL/LIC - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 61.17,
+    "Nota_Último": 55.41,
+    "Vagas_Oferecidas": 4,
+    "Vagas_Ocupadas": 5
+  },
+  {
+    "Código": 415,
+    "Curso": "JORNALISMO - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 62.26,
+    "Nota_Último": 59.36,
+    "Vagas_Oferecidas": 3,
+    "Vagas_Ocupadas": 3
+  },
+  {
+    "Código": 460,
+    "Curso": "LETRAS - ALEMÃO - ABI - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 51.53,
+    "Nota_Último": 32.29,
+    "Vagas_Oferecidas": 4,
+    "Vagas_Ocupadas": 4
+  },
+  {
+    "Código": 463,
+    "Curso": "LETRAS - ESPANHOL - ABI - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 42.06,
+    "Nota_Último": 38.71,
+    "Vagas_Oferecidas": 4,
+    "Vagas_Ocupadas": 2
+  },
+  {
+    "Código": 466,
+    "Curso": "LETRAS - FRANCÊS - ABI - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 46.79,
+    "Nota_Último": 38.64,
+    "Vagas_Oferecidas": 4,
+    "Vagas_Ocupadas": 3
+  },
+  {
+    "Código": 469,
+    "Curso": "LETRAS - INGLÊS - ABI - BEL/LIC - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 65.26,
+    "Nota_Último": 48.75,
+    "Vagas_Oferecidas": 4,
+    "Vagas_Ocupadas": 6
+  },
+  {
+    "Código": 428,
+    "Curso": "LETRAS - PORTUGUÊS - BEL/LIC - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 60.93,
+    "Nota_Último": 53.68,
+    "Vagas_Oferecidas": 4,
+    "Vagas_Ocupadas": 5
+  },
+  {
+    "Código": 223,
+    "Curso": "MATEMÁTICA - LIC - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 64.84,
+    "Nota_Último": 37.26,
+    "Vagas_Oferecidas": 5,
+    "Vagas_Ocupadas": 4
+  },
+  {
+    "Código": 103,
+    "Curso": "MEDICINA - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 87.26,
+    "Nota_Último": 84.13,
+    "Vagas_Oferecidas": 5,
+    "Vagas_Ocupadas": 5
+  },
+  {
+    "Código": 552,
+    "Curso": "MEDICINA VETERINÁRIA - DIURNO - CURITIBANOS",
+    "Nota_Primeiro": 50.94,
+    "Nota_Último": 45.55,
+    "Vagas_Oferecidas": 4,
+    "Vagas_Ocupadas": 4
+  },
+  {
+    "Código": 230,
+    "Curso": "METEOROLOGIA - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 55.7,
+    "Nota_Último": 30.61,
+    "Vagas_Oferecidas": 3,
+    "Vagas_Ocupadas": 2
+  },
+  {
+    "Código": 338,
+    "Curso": "MUSEOLOGIA - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 38.75,
+    "Nota_Último": 38.75,
+    "Vagas_Oferecidas": 3,
+    "Vagas_Ocupadas": 1
+  },
+  {
+    "Código": 9,
+    "Curso": "NUTRIÇÃO - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 75.04,
+    "Nota_Último": 58.64,
+    "Vagas_Oferecidas": 4,
+    "Vagas_Ocupadas": 4
+  },
+  {
+    "Código": 104,
+    "Curso": "ODONTOLOGIA - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 77.22,
+    "Nota_Último": 59.52,
+    "Vagas_Oferecidas": 5,
+    "Vagas_Ocupadas": 5
+  },
+  {
+    "Código": 308,
+    "Curso": "PEDAGOGIA - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 57.54,
+    "Nota_Último": 29.21,
+    "Vagas_Oferecidas": 5,
+    "Vagas_Ocupadas": 6
+  },
+  {
+    "Código": 319,
+    "Curso": "PSICOLOGIA - BEL/LIC - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 81.42,
+    "Nota_Último": 75.61,
+    "Vagas_Oferecidas": 4,
+    "Vagas_Ocupadas": 4
+  },
+  {
+    "Código": 226,
+    "Curso": "QUÍMICA - BEL - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 38.28,
+    "Nota_Último": 38.28,
+    "Vagas_Oferecidas": 4,
+    "Vagas_Ocupadas": 1
+  },
+  {
+    "Código": 227,
+    "Curso": "QUÍMICA TECNOLÓGICA - BEL - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 35.03,
+    "Nota_Último": 35.03,
+    "Vagas_Oferecidas": 2,
+    "Vagas_Ocupadas": 1
+  },
+  {
+    "Código": 340,
+    "Curso": "RELAÇÕES INTERNACIONAIS - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 75.48,
+    "Nota_Último": 69.03,
+    "Vagas_Oferecidas": 4,
+    "Vagas_Ocupadas": 4
+  },
+  {
+    "Código": 309,
+    "Curso": "SERVIÇO SOCIAL - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 59.79,
+    "Nota_Último": 35.3,
+    "Vagas_Oferecidas": 4,
+    "Vagas_Ocupadas": 2
+  },
+  {
+    "Código": 339,
+    "Curso": "SERVIÇO SOCIAL - NOTURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 51.13,
+    "Nota_Último": 35.01,
+    "Vagas_Oferecidas": 3,
+    "Vagas_Ocupadas": 4
+  },
+  {
+    "Código": 238,
+    "Curso": "SISTEMAS DE INFORMAÇÃO - NOTURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 68.31,
+    "Nota_Último": 56.66,
+    "Vagas_Oferecidas": 5,
+    "Vagas_Ocupadas": 5
+  },
+  {
+    "Código": 652,
+    "Curso": "TEC DA INFO. E COMUNICAÇÃO - NOTURNO - ARARANGUÁ",
+    "Nota_Primeiro": 57.05,
+    "Nota_Último": 43.55,
+    "Vagas_Oferecidas": 3,
+    "Vagas_Ocupadas": 5
+  },
+  {
+    "Código": 502,
+    "Curso": "ZOOTECNIA - DIURNO - FLORIANÓPOLIS",
+    "Nota_Primeiro": 49.49,
+    "Nota_Último": 35.85,
+    "Vagas_Oferecidas": 3,
+    "Vagas_Ocupadas": 4
+  }
+]

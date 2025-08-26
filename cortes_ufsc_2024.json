@@ -1,0 +1,1586 @@
+[
+  {
+    "Código": 301,
+    "Curso": "ADMINISTRAÇÃO - BEL - MATUTINO - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 69.47,
+    "Nota_Último": 49.96,
+    "Vagas_Oferecidas": 35,
+    "Vagas_Ocupadas": 42
+  },
+  {
+    "Código": 316,
+    "Curso": "ADMINISTRAÇÃO - BEL - NOTURNO - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 65.42,
+    "Nota_Último": 49.15,
+    "Vagas_Oferecidas": 35,
+    "Vagas_Ocupadas": 36
+  },
+  {
+    "Código": 1419755,
+    "Curso": "AGRONOMIA - BEL - INTEGRAL - ARAQUARI ( IFC )",
+    "Nota_Primeiro": 70.45,
+    "Nota_Último": 26.14,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 12
+  },
+  {
+    "Código": 1487176,
+    "Curso": "AGRONOMIA - BEL - INTEGRAL - CAMBORIÚ ( IFC )",
+    "Nota_Primeiro": 59.5,
+    "Nota_Último": 29.55,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 5
+  },
+  {
+    "Código": 1307311,
+    "Curso": "AGRONOMIA - BEL - INTEGRAL - CONCÓRDIA ( IFC )",
+    "Nota_Primeiro": 46.81,
+    "Nota_Último": 25.05,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 15
+  },
+  {
+    "Código": 1103033,
+    "Curso": "AGRONOMIA - BEL - INTEGRAL - SANTA ROSA DO SUL ( IFC )",
+    "Nota_Primeiro": 38.02,
+    "Nota_Último": 18.47,
+    "Vagas_Oferecidas": 20,
+    "Vagas_Ocupadas": 7
+  },
+  {
+    "Código": 555,
+    "Curso": "AGRONOMIA - BEL - INTEGRAL - CURITIBANOS ( UFSC )",
+    "Nota_Primeiro": 48.94,
+    "Nota_Último": 20.85,
+    "Vagas_Oferecidas": 35,
+    "Vagas_Ocupadas": 25
+  },
+  {
+    "Código": 1102950,
+    "Curso": "AGRONOMIA - BEL - INTEGRAL - RIO DO SUL (SEDE) ( IFC )",
+    "Nota_Primeiro": 54.58,
+    "Nota_Último": 21.78,
+    "Vagas_Oferecidas": 20,
+    "Vagas_Ocupadas": 14
+  },
+  {
+    "Código": 6420974,
+    "Curso": "AGRONOMIA - BEL - INTEGRAL - CANOINHAS ( IFSC )",
+    "Nota_Primeiro": 40.98,
+    "Nota_Último": 20.07,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 15
+  },
+  {
+    "Código": 501,
+    "Curso": "AGRONOMIA - BEL - INTEGRAL - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 61.22,
+    "Nota_Último": 24.32,
+    "Vagas_Oferecidas": 38,
+    "Vagas_Ocupadas": 63
+  },
+  {
+    "Código": 2399471,
+    "Curso": "AGRONOMIA - BEL - MATUTINO - SÃO MIGUEL DO OESTE ( IFSC )",
+    "Nota_Primeiro": 49.04,
+    "Nota_Último": 25.85,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 6
+  },
+  {
+    "Código": 1503650,
+    "Curso": "AGRONOMIA - BEL - MATUTINO - VIDEIRA ( IFC )",
+    "Nota_Primeiro": 40.2,
+    "Nota_Último": 32.95,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 5
+  },
+  {
+    "Código": 2399020,
+    "Curso": "ALIMENTOS - TEC - NOTURNO - CANOINHAS ( IFSC )",
+    "Nota_Primeiro": 41.78,
+    "Nota_Último": 32.79,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 4
+  },
+  {
+    "Código": 2399513,
+    "Curso": "ALIMENTOS - TEC - NOTURNO - SÃO MIGUEL DO OESTE ( IFSC )",
+    "Nota_Primeiro": 33.93,
+    "Nota_Último": 33.93,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 1
+  },
+  {
+    "Código": 2401865,
+    "Curso": "ANÁLISE E DESENVOLV DE SIST - TEC - NOT. - TUBARÃO ( IFSC )",
+    "Nota_Primeiro": 57.58,
+    "Nota_Último": 44.59,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 10
+  },
+  {
+    "Código": 1419856,
+    "Curso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - TEC - NOTURNO - FRAIBURGO ( IFC )",
+    "Nota_Primeiro": 55.81,
+    "Nota_Último": 37.95,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 4
+  },
+  {
+    "Código": 2400438,
+    "Curso": "ANÁLISE E DESENVOLVIMENTO DE SIST - TEC - NOTURNO - GASPAR ( IFSC )",
+    "Nota_Primeiro": 53.91,
+    "Nota_Último": 43.74,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 11
+  },
+  {
+    "Código": 2399027,
+    "Curso": "ANÁLISE E DESENVOLVIMENTO DE SIST - TEC - NOTURNO - CANOINHAS ( IFSC )",
+    "Nota_Primeiro": 48.56,
+    "Nota_Último": 28.75,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 9
+  },
+  {
+    "Código": 1638283,
+    "Curso": "ANÁLISE E DESENVOLVIMENTO DE SIST - TEC - NOTURNO - SÃO JOSÉ ( IFSC )",
+    "Nota_Primeiro": 72.25,
+    "Nota_Último": 56.29,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 10
+  },
+  {
+    "Código": 455,
+    "Curso": "ANIMAÇÃO - BEL - INTEGRAL - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 79.59,
+    "Nota_Último": 63.77,
+    "Vagas_Oferecidas": 14,
+    "Vagas_Ocupadas": 14
+  },
+  {
+    "Código": 337,
+    "Curso": "ANTROPOLOGIA - BEL - VESPERTINO - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 58.53,
+    "Nota_Último": 32.6,
+    "Vagas_Oferecidas": 9,
+    "Vagas_Ocupadas": 11
+  },
+  {
+    "Código": 207,
+    "Curso": "ARQUITETURA E URBANISMO - BEL - INTEGRAL - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 86.39,
+    "Nota_Último": 66.9,
+    "Vagas_Oferecidas": 28,
+    "Vagas_Ocupadas": 28
+  },
+  {
+    "Código": 335,
+    "Curso": "ARQUIVOLOGIA - BEL - MATUTINO - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 43.77,
+    "Nota_Último": 33.12,
+    "Vagas_Oferecidas": 21,
+    "Vagas_Ocupadas": 7
+  },
+  {
+    "Código": 451,
+    "Curso": "ARTES CÊNICAS - BEL - NOTURNO - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 64.83,
+    "Nota_Último": 53.57,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 10
+  },
+  {
+    "Código": 324,
+    "Curso": "BIBLIOTECONOMIA - BEL - NOTURNO - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 51.04,
+    "Nota_Último": 25.3,
+    "Vagas_Oferecidas": 21,
+    "Vagas_Ocupadas": 23
+  },
+  {
+    "Código": 1160123,
+    "Curso": "CIÊNCIA DA COMPUTAÇÃO - BEL - INTEGRAL - VIDEIRA ( IFC )",
+    "Nota_Primeiro": 63.92,
+    "Nota_Último": 27.12,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 18
+  },
+  {
+    "Código": 1102793,
+    "Curso": "CIÊNCIA DA COMPUTAÇÃO - BEL - INTEGRAL - RIO DO SUL (UNIDADE URBANA) ( IFC )",
+    "Nota_Primeiro": 40.97,
+    "Nota_Último": 34.39,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 6
+  },
+  {
+    "Código": 1496469,
+    "Curso": "CIÊNCIA DA COMPUTAÇÃO - BEL - INTEGRAL - BLUMENAU ( IFC )",
+    "Nota_Primeiro": 51.59,
+    "Nota_Último": 26.55,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 19
+  },
+  {
+    "Código": 2399142,
+    "Curso": "CIÊNCIA DA COMPUTAÇÃO - BEL - MATUTINO - LAGES ( IFSC )",
+    "Nota_Primeiro": 71.78,
+    "Nota_Último": 51.44,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 10
+  },
+  {
+    "Código": 342,
+    "Curso": "CIÊNCIA DA INFORMAÇÃO - BEL - INTEGRAL - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 65.86,
+    "Nota_Último": 53.95,
+    "Vagas_Oferecidas": 14,
+    "Vagas_Ocupadas": 14
+  },
+  {
+    "Código": 503,
+    "Curso": "CIÊNCIA E TEC. DE ALIMENTOS - BEL - INT - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 50.41,
+    "Nota_Último": 27.51,
+    "Vagas_Oferecidas": 24,
+    "Vagas_Ocupadas": 4
+  },
+  {
+    "Código": 601,
+    "Curso": "CIÊNCIA E TECNOLOGIA - BEL - INTEGRAL - JOINVILLE ( UFSC )",
+    "Nota_Primeiro": 72.36,
+    "Nota_Último": 43.34,
+    "Vagas_Oferecidas": 21,
+    "Vagas_Ocupadas": 36
+  },
+  {
+    "Código": 1102784,
+    "Curso": "CIÊNCIAS AGRÍCOLAS - LIC - NOTURNO - ARAQUARI ( IFC )",
+    "Nota_Primeiro": 29.63,
+    "Nota_Último": 29.63,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 1
+  },
+  {
+    "Código": 108,
+    "Curso": "CIÊNCIAS BIOLÓGICAS - BEL/LIC - INTEGRAL - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 80.19,
+    "Nota_Último": 63.24,
+    "Vagas_Oferecidas": 28,
+    "Vagas_Ocupadas": 28
+  },
+  {
+    "Código": 110,
+    "Curso": "CIÊNCIAS BIOLÓGICAS - LIC - NOTURNO - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 63.97,
+    "Nota_Último": 29.34,
+    "Vagas_Oferecidas": 28,
+    "Vagas_Ocupadas": 55
+  },
+  {
+    "Código": 302,
+    "Curso": "CIÊNCIAS CONTÁBEIS - BEL - MATUTINO - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 67.57,
+    "Nota_Último": 30.05,
+    "Vagas_Oferecidas": 31,
+    "Vagas_Ocupadas": 40
+  },
+  {
+    "Código": 317,
+    "Curso": "CIÊNCIAS CONTÁBEIS - BEL - NOTURNO - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 63.5,
+    "Nota_Último": 35.7,
+    "Vagas_Oferecidas": 31,
+    "Vagas_Ocupadas": 54
+  },
+  {
+    "Código": 208,
+    "Curso": "CIÊNCIAS DA COMPUTAÇÃO - BEL - INTEGRAL - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 84.54,
+    "Nota_Último": 67.51,
+    "Vagas_Oferecidas": 35,
+    "Vagas_Ocupadas": 35
+  },
+  {
+    "Código": 304,
+    "Curso": "CIÊNCIAS ECONÔMICAS - BEL - MATUTINO - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 86.41,
+    "Nota_Último": 50.35,
+    "Vagas_Oferecidas": 31,
+    "Vagas_Ocupadas": 52
+  },
+  {
+    "Código": 318,
+    "Curso": "CIÊNCIAS ECONÔMICAS - BEL - NOTURNO - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 74.03,
+    "Nota_Último": 40.65,
+    "Vagas_Oferecidas": 31,
+    "Vagas_Ocupadas": 60
+  },
+  {
+    "Código": 310,
+    "Curso": "CIÊNCIAS SOCIAIS - BEL/LIC - MATUTINO - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 64.18,
+    "Nota_Último": 43.21,
+    "Vagas_Oferecidas": 15,
+    "Vagas_Ocupadas": 24
+  },
+  {
+    "Código": 320,
+    "Curso": "CIÊNCIAS SOCIAIS - BEL/LIC - NOTURNO - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 61.44,
+    "Nota_Último": 31.43,
+    "Vagas_Oferecidas": 17,
+    "Vagas_Ocupadas": 28
+  },
+  {
+    "Código": 450,
+    "Curso": "CINEMA - BEL - INTEGRAL - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 79.23,
+    "Nota_Último": 66.3,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 10
+  },
+  {
+    "Código": 454,
+    "Curso": "DESIGN - BEL - INTEGRAL - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 75.78,
+    "Nota_Último": 65.35,
+    "Vagas_Oferecidas": 14,
+    "Vagas_Ocupadas": 14
+  },
+  {
+    "Código": 40180738,
+    "Curso": "DESIGN - BEL - INTEGRAL - FLORIANÓPOLIS - CENTRO ( IFSC )",
+    "Nota_Primeiro": 63.61,
+    "Nota_Último": 45.7,
+    "Vagas_Oferecidas": 7,
+    "Vagas_Ocupadas": 7
+  },
+  {
+    "Código": 2398932,
+    "Curso": "DESIGN DE MODA - TEC - NOTURNO - ARARANGUÁ ( IFSC )",
+    "Nota_Primeiro": 63.39,
+    "Nota_Último": 36.78,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 12
+  },
+  {
+    "Código": 1283114,
+    "Curso": "DESIGN DE MODA - TEC - NOTURNO - IBIRAMA ( IFC )",
+    "Nota_Primeiro": 40.34,
+    "Nota_Último": 31.94,
+    "Vagas_Oferecidas": 7,
+    "Vagas_Ocupadas": 3
+  },
+  {
+    "Código": 10016302,
+    "Curso": "DESIGN DE MODA - TEC - NOTURNO - JARAGUÁ DO SUL - CENTRO ( IFSC )",
+    "Nota_Primeiro": 56.18,
+    "Nota_Último": 32.98,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 18
+  },
+  {
+    "Código": 2400439,
+    "Curso": "DESIGN DE MODA - TEC - NOTURNO - GASPAR ( IFSC )",
+    "Nota_Primeiro": 46.8,
+    "Nota_Último": 27.52,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 8
+  },
+  {
+    "Código": 452,
+    "Curso": "DESIGN DE PRODUTO - BEL - INTEGRAL - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 73.3,
+    "Nota_Último": 52.18,
+    "Vagas_Oferecidas": 14,
+    "Vagas_Ocupadas": 19
+  },
+  {
+    "Código": 303,
+    "Curso": "DIREITO - BEL - MATUTINO - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 87.73,
+    "Nota_Último": 72.47,
+    "Vagas_Oferecidas": 31,
+    "Vagas_Ocupadas": 31
+  },
+  {
+    "Código": 5,
+    "Curso": "DIREITO - BEL - NOTURNO - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 82.13,
+    "Nota_Último": 69.89,
+    "Vagas_Oferecidas": 31,
+    "Vagas_Ocupadas": 31
+  },
+  {
+    "Código": 444,
+    "Curso": "EDUCAÇÃO FÍSICA - BEL - MATUTINO - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 68.31,
+    "Nota_Último": 54.14,
+    "Vagas_Oferecidas": 21,
+    "Vagas_Ocupadas": 21
+  },
+  {
+    "Código": 404,
+    "Curso": "EDUCAÇÃO FÍSICA - LIC - VESPERTINO - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 55.76,
+    "Nota_Último": 45.08,
+    "Vagas_Oferecidas": 21,
+    "Vagas_Ocupadas": 21
+  },
+  {
+    "Código": 2399377,
+    "Curso": "ELETRÔNICA INDUSTRIAL - TEC - NOTURNO - FLORIANÓPOLIS - CENTRO ( IFSC )",
+    "Nota_Primeiro": 42.72,
+    "Nota_Último": 35.63,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 4
+  },
+  {
+    "Código": 101,
+    "Curso": "ENFERMAGEM - BEL - INTEGRAL - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 68.36,
+    "Nota_Último": 52.02,
+    "Vagas_Oferecidas": 26,
+    "Vagas_Ocupadas": 26
+  },
+  {
+    "Código": 2398983,
+    "Curso": "ENFERMAGEM - BEL - MAT - JOINVILLE ( IFSC )",
+    "Nota_Primeiro": 53.56,
+    "Nota_Último": 45.75,
+    "Vagas_Oferecidas": 6,
+    "Vagas_Ocupadas": 6
+  },
+  {
+    "Código": 607,
+    "Curso": "ENG. CIVIL DE INFRAESTRUTURA - BEL - INT - JOINVILLE ( UFSC )",
+    "Nota_Primeiro": 65.44,
+    "Nota_Último": 39.27,
+    "Vagas_Oferecidas": 17,
+    "Vagas_Ocupadas": 34
+  },
+  {
+    "Código": 234,
+    "Curso": "ENG. DE AQUICULTURA - BEL - INTEGRAL - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 48.93,
+    "Nota_Último": 28.44,
+    "Vagas_Oferecidas": 28,
+    "Vagas_Ocupadas": 10
+  },
+  {
+    "Código": 655,
+    "Curso": "ENG. DE COMPUTAÇÃO - BEL - INTEGRAL - ARARANGUÁ ( UFSC )",
+    "Nota_Primeiro": 81.85,
+    "Nota_Último": 56.14,
+    "Vagas_Oferecidas": 21,
+    "Vagas_Ocupadas": 21
+  },
+  {
+    "Código": 754,
+    "Curso": "ENG. DE CONTROLE E AUTOMAÇÃO - BEL - INT - BLUMENAU ( UFSC )",
+    "Nota_Primeiro": 68.73,
+    "Nota_Último": 31.17,
+    "Vagas_Oferecidas": 35,
+    "Vagas_Ocupadas": 34
+  },
+  {
+    "Código": 220,
+    "Curso": "ENG. DE CONTROLE E AUTOMAÇÃO - BEL - INT - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 74.45,
+    "Nota_Último": 59.66,
+    "Vagas_Oferecidas": 25,
+    "Vagas_Ocupadas": 25
+  },
+  {
+    "Código": 2399549,
+    "Curso": "ENG DE CONTROLE E AUTOM- BEL - MAT/VESP - CHAPECÓ ( IFSC )",
+    "Nota_Primeiro": 59.2,
+    "Nota_Último": 33.48,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 17
+  },
+  {
+    "Código": 2400730,
+    "Curso": "ENG DE TELECOMUNICAÇÕES - BEL - INTEGRAL - SÃO JOSÉ ( IFSC )",
+    "Nota_Primeiro": 50.22,
+    "Nota_Último": 38.32,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 7
+  },
+  {
+    "Código": 608,
+    "Curso": "ENG. DE TRANSP. E LOG. - BEL - INTEGRAL - JOINVILLE ( UFSC )",
+    "Nota_Primeiro": 58.5,
+    "Nota_Último": 26.87,
+    "Vagas_Oferecidas": 17,
+    "Vagas_Ocupadas": 13
+  },
+  {
+    "Código": 602,
+    "Curso": "ENGENHARIA AEROESPACIAL - BEL - INTEGRAL - JOINVILLE ( UFSC )",
+    "Nota_Primeiro": 85.92,
+    "Nota_Último": 71.15,
+    "Vagas_Oferecidas": 17,
+    "Vagas_Ocupadas": 17
+  },
+  {
+    "Código": 603,
+    "Curso": "ENGENHARIA AUTOMOTIVA - BEL - INTEGRAL - JOINVILLE ( UFSC )",
+    "Nota_Primeiro": 80.02,
+    "Nota_Último": 53.15,
+    "Vagas_Oferecidas": 17,
+    "Vagas_Ocupadas": 18
+  },
+  {
+    "Código": 3548889,
+    "Curso": "ENGENHARIA CIVIL - BEL - INTEGRAL - CRICIÚMA ( IFSC )",
+    "Nota_Primeiro": 51.45,
+    "Nota_Último": 27.78,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 11
+  },
+  {
+    "Código": 2357934,
+    "Curso": "ENGENHARIA CIVIL - BEL - INTEGRAL - SÃO CARLOS ( IFSC )",
+    "Nota_Primeiro": 58.62,
+    "Nota_Último": 30.12,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 2
+  },
+  {
+    "Código": 201,
+    "Curso": "ENGENHARIA CIVIL - BEL - INTEGRAL - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 80.06,
+    "Nota_Último": 52.93,
+    "Vagas_Oferecidas": 38,
+    "Vagas_Ocupadas": 42
+  },
+  {
+    "Código": 2398500,
+    "Curso": "ENGENHARIA CIVIL - BEL - INTEGRAL - FLORIANÓPOLIS - CENTRO ( IFSC )",
+    "Nota_Primeiro": 71.49,
+    "Nota_Último": 47.13,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 10
+  },
+  {
+    "Código": 215,
+    "Curso": "ENGENHARIA DE ALIMENTOS - BEL - INTEGRAL - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 77.18,
+    "Nota_Último": 33.36,
+    "Vagas_Oferecidas": 17,
+    "Vagas_Ocupadas": 35
+  },
+  {
+    "Código": 1125946,
+    "Curso": "ENGENHARIA DE ALIMENTOS - BEL - INTEGRAL - CONCÓRDIA ( IFC )",
+    "Nota_Primeiro": 41.64,
+    "Nota_Último": 20.66,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 2
+  },
+  {
+    "Código": 25354253,
+    "Curso": "ENGENHARIA DE ALIMENTOS - BEL - MATUTINO - URUPEMA ( IFSC )",
+    "Nota_Primeiro": 36.04,
+    "Nota_Último": 36.04,
+    "Vagas_Oferecidas": 5,
+    "Vagas_Ocupadas": 1
+  },
+  {
+    "Código": 1377586,
+    "Curso": "ENGENHARIA DE COMPUTAÇÃO - BEL - INTEGRAL - SÃO BENTO DO SUL ( IFC )",
+    "Nota_Primeiro": 62.63,
+    "Nota_Último": 31.68,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 15
+  },
+  {
+    "Código": 1126054,
+    "Curso": "ENGENHARIA DE CONTROLE E AUTOMAÇÃO - BEL - INTEGRAL - LUZERNA ( IFC )",
+    "Nota_Primeiro": 60.11,
+    "Nota_Último": 28.84,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 5
+  },
+  {
+    "Código": 1377587,
+    "Curso": "ENGENHARIA DE CONTROLE E AUTOMAÇÃO - BEL - INTEGRAL - SÃO BENTO DO SUL ( IFC )",
+    "Nota_Primeiro": 60.38,
+    "Nota_Último": 37.8,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 4
+  },
+  {
+    "Código": 653,
+    "Curso": "ENGENHARIA DE ENERGIA - BEL - INTEGRAL - ARARANGUÁ ( UFSC )",
+    "Nota_Primeiro": 58.22,
+    "Nota_Último": 26.39,
+    "Vagas_Oferecidas": 21,
+    "Vagas_Ocupadas": 27
+  },
+  {
+    "Código": 236,
+    "Curso": "ENGENHARIA DE MATERIAIS - BEL - INTEGRAL - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 68.96,
+    "Nota_Último": 43.78,
+    "Vagas_Oferecidas": 24,
+    "Vagas_Ocupadas": 47
+  },
+  {
+    "Código": 753,
+    "Curso": "ENGENHARIA DE MATERIAIS - BEL - INTEGRAL - BLUMENAU ( UFSC )",
+    "Nota_Primeiro": 73.93,
+    "Nota_Último": 23.62,
+    "Vagas_Oferecidas": 35,
+    "Vagas_Ocupadas": 16
+  },
+  {
+    "Código": 237,
+    "Curso": "ENGENHARIA DE PRODUÇÃO - BEL - INTEGRAL - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 72.81,
+    "Nota_Último": 53.11,
+    "Vagas_Oferecidas": 42,
+    "Vagas_Ocupadas": 65
+  },
+  {
+    "Código": 2399176,
+    "Curso": "ENGENHARIA DE PRODUÇÃO - BEL - NOTURNO - CAÇADOR ( IFSC )",
+    "Nota_Primeiro": 48.42,
+    "Nota_Último": 22.68,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 8
+  },
+  {
+    "Código": 202,
+    "Curso": "ENGENHARIA ELÉTRICA - BEL - INTEGRAL - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 76.05,
+    "Nota_Último": 54.08,
+    "Vagas_Oferecidas": 35,
+    "Vagas_Ocupadas": 51
+  },
+  {
+    "Código": 2398796,
+    "Curso": "ENGENHARIA ELÉTRICA - BEL - INTEGRAL - FLORIANÓPOLIS - CENTRO ( IFSC )",
+    "Nota_Primeiro": 59.36,
+    "Nota_Último": 24.62,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 7
+  },
+  {
+    "Código": 2400470,
+    "Curso": "ENGENHARIA ELÉTRICA - BEL - MATUTINO - JARAGUÁ DO SUL - RAU ( IFSC )",
+    "Nota_Primeiro": 59.16,
+    "Nota_Último": 29.24,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 19
+  },
+  {
+    "Código": 1419754,
+    "Curso": "ENGENHARIA ELÉTRICA - BEL - NOTURNO - BLUMENAU ( IFC )",
+    "Nota_Primeiro": 67.97,
+    "Nota_Último": 27.3,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 19
+  },
+  {
+    "Código": 1455342,
+    "Curso": "ENGENHARIA ELÉTRICA - BEL - NOTURNO - SÃO FRANCISCO DO SUL ( IFC )",
+    "Nota_Primeiro": 55.0,
+    "Nota_Último": 29.93,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 7
+  },
+  {
+    "Código": 1330658,
+    "Curso": "ENGENHARIA ELÉTRICA - BEL - NOTURNO - VIDEIRA ( IFC )",
+    "Nota_Primeiro": 47.6,
+    "Nota_Último": 19.51,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 15
+  },
+  {
+    "Código": 2399014,
+    "Curso": "ENGENHARIA ELÉTRICA - BEL - NOTURNO - JOINVILLE ( IFSC )",
+    "Nota_Primeiro": 76.86,
+    "Nota_Último": 48.05,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 10
+  },
+  {
+    "Código": 2398777,
+    "Curso": "ENGENHARIA ELÉTRICA - BEL - VESPERTINO - ITAJAÍ ( IFSC )",
+    "Nota_Primeiro": 63.63,
+    "Nota_Último": 28.77,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 2
+  },
+  {
+    "Código": 2398795,
+    "Curso": "ENGENHARIA ELETRÔNICA - BEL - INTEGRAL - FLORIANÓPOLIS - CENTRO ( IFSC )",
+    "Nota_Primeiro": 56.95,
+    "Nota_Último": 31.26,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 14
+  },
+  {
+    "Código": 235,
+    "Curso": "ENGENHARIA ELETRÔNICA - BEL - INTEGRAL - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 63.76,
+    "Nota_Último": 49.36,
+    "Vagas_Oferecidas": 21,
+    "Vagas_Ocupadas": 24
+  },
+  {
+    "Código": 553,
+    "Curso": "ENGENHARIA FLORESTAL - BEL - INTEGRAL - CURITIBANOS ( UFSC )",
+    "Nota_Primeiro": 70.12,
+    "Nota_Último": 27.5,
+    "Vagas_Oferecidas": 21,
+    "Vagas_Ocupadas": 8
+  },
+  {
+    "Código": 1259305,
+    "Curso": "ENGENHARIA MECÂNICA - BEL - INTEGRAL - LUZERNA ( IFC )",
+    "Nota_Primeiro": 57.53,
+    "Nota_Último": 38.79,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 5
+  },
+  {
+    "Código": 203,
+    "Curso": "ENGENHARIA MECÂNICA - BEL - INTEGRAL - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 83.53,
+    "Nota_Último": 66.43,
+    "Vagas_Oferecidas": 38,
+    "Vagas_Ocupadas": 44
+  },
+  {
+    "Código": 2399146,
+    "Curso": "ENGENHARIA MECÂNICA - BEL - MATUTINO - LAGES ( IFSC )",
+    "Nota_Primeiro": 62.15,
+    "Nota_Último": 27.73,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 18
+  },
+  {
+    "Código": 13325678,
+    "Curso": "ENGENHARIA MECÂNICA - BEL - NOTURNO - XANXERÊ ( IFSC )",
+    "Nota_Primeiro": 51.71,
+    "Nota_Último": 31.05,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 20
+  },
+  {
+    "Código": 37386416,
+    "Curso": "ENGENHARIA MECÂNICA - BEL - VESPERTINO - JARAGUÁ DO SUL - RAU ( IFSC )",
+    "Nota_Primeiro": 59.4,
+    "Nota_Último": 24.86,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 18
+  },
+  {
+    "Código": 2399585,
+    "Curso": "ENGENHARIA MECATRÔNICA - BEL - INTEGRAL - CRICIÚMA ( IFSC )",
+    "Nota_Primeiro": 51.09,
+    "Nota_Último": 30.06,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 8
+  },
+  {
+    "Código": 605,
+    "Curso": "ENGENHARIA MECATRÔNICA - BEL - INTEGRAL - JOINVILLE ( UFSC )",
+    "Nota_Primeiro": 76.98,
+    "Nota_Último": 63.59,
+    "Vagas_Oferecidas": 17,
+    "Vagas_Ocupadas": 17
+  },
+  {
+    "Código": 2398727,
+    "Curso": "ENGENHARIA MECATRÔNICA - BEL - INTEGRAL - FLORIANÓPOLIS - CENTRO ( IFSC )",
+    "Nota_Primeiro": 65.64,
+    "Nota_Último": 47.16,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 10
+  },
+  {
+    "Código": 1377588,
+    "Curso": "ENGENHARIA MECATRÔNICA - BEL - INTEGRAL - RIO DO SUL (UNIDADE TECNOLÓGICA) ( IFC )",
+    "Nota_Primeiro": 50.83,
+    "Nota_Último": 28.88,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 3
+  },
+  {
+    "Código": 606,
+    "Curso": "ENGENHARIA NAVAL - BEL - INTEGRAL - JOINVILLE ( UFSC )",
+    "Nota_Primeiro": 70.23,
+    "Nota_Último": 42.33,
+    "Vagas_Oferecidas": 17,
+    "Vagas_Ocupadas": 31
+  },
+  {
+    "Código": 216,
+    "Curso": "ENGENHARIA QUÍMICA - BEL - INTEGRAL - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 78.21,
+    "Nota_Último": 62.62,
+    "Vagas_Oferecidas": 17,
+    "Vagas_Ocupadas": 17
+  },
+  {
+    "Código": 24922276,
+    "Curso": "ENGENHARIA QUÍMICA - BEL - MATUTINO - LAGES ( IFSC )",
+    "Nota_Primeiro": 57.32,
+    "Nota_Último": 28.68,
+    "Vagas_Oferecidas": 7,
+    "Vagas_Ocupadas": 12
+  },
+  {
+    "Código": 755,
+    "Curso": "ENGENHARIA TÊXTIL - BEL - MATUTINO - BLUMENAU ( UFSC )",
+    "Nota_Primeiro": 45.95,
+    "Nota_Último": 32.45,
+    "Vagas_Oferecidas": 35,
+    "Vagas_Ocupadas": 10
+  },
+  {
+    "Código": 604,
+    "Curso": "ENG. FERROV. E METROVIÁRIA - BEL - INT - JOINVILLE ( UFSC )",
+    "Nota_Primeiro": 50.05,
+    "Nota_Último": 39.56,
+    "Vagas_Oferecidas": 14,
+    "Vagas_Ocupadas": 4
+  },
+  {
+    "Código": 211,
+    "Curso": "ENG. SANITÁRIA E AMBIENTAL - BEL - INT - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 70.51,
+    "Nota_Último": 30.07,
+    "Vagas_Oferecidas": 31,
+    "Vagas_Ocupadas": 48
+  },
+  {
+    "Código": 102,
+    "Curso": "FARMÁCIA - BEL - INTEGRAL - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 78.87,
+    "Nota_Último": 58.65,
+    "Vagas_Oferecidas": 45,
+    "Vagas_Ocupadas": 45
+  },
+  {
+    "Código": 323,
+    "Curso": "FILOSOFIA - BEL - NOTURNO - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 63.52,
+    "Nota_Último": 31.92,
+    "Vagas_Oferecidas": 13,
+    "Vagas_Ocupadas": 25
+  },
+  {
+    "Código": 307,
+    "Curso": "FILOSOFIA - LIC - VESPERTINO - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 77.52,
+    "Nota_Último": 34.58,
+    "Vagas_Oferecidas": 13,
+    "Vagas_Ocupadas": 20
+  },
+  {
+    "Código": 2,
+    "Curso": "FÍSICA - BEL - INTEGRAL - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 84.08,
+    "Nota_Último": 33.48,
+    "Vagas_Oferecidas": 19,
+    "Vagas_Ocupadas": 35
+  },
+  {
+    "Código": 1125947,
+    "Curso": "FÍSICA - LIC - NOTURNO - CONCÓRDIA ( IFC )",
+    "Nota_Primeiro": 42.86,
+    "Nota_Último": 26.01,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 3
+  },
+  {
+    "Código": 1125919,
+    "Curso": "FÍSICA - LIC - NOTURNO - RIO DO SUL (UNIDADE URBANA) ( IFC )",
+    "Nota_Primeiro": 56.88,
+    "Nota_Último": 38.81,
+    "Vagas_Oferecidas": 9,
+    "Vagas_Ocupadas": 3
+  },
+  {
+    "Código": 225,
+    "Curso": "FÍSICA - LIC - NOTURNO - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 76.64,
+    "Nota_Último": 32.4,
+    "Vagas_Oferecidas": 26,
+    "Vagas_Ocupadas": 11
+  },
+  {
+    "Código": 654,
+    "Curso": "FISIOTERAPIA - BEL - INTEGRAL - ARARANGUÁ ( UFSC )",
+    "Nota_Primeiro": 58.14,
+    "Nota_Último": 46.18,
+    "Vagas_Oferecidas": 21,
+    "Vagas_Ocupadas": 21
+  },
+  {
+    "Código": 109,
+    "Curso": "FONOAUDIOLOGIA - BEL - INTEGRAL - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 66.23,
+    "Nota_Último": 53.42,
+    "Vagas_Oferecidas": 14,
+    "Vagas_Ocupadas": 14
+  },
+  {
+    "Código": 2400278,
+    "Curso": "GASTRONOMIA - TEC - MATUTINO - FLORIANÓPOLIS - CONTINENTE ( IFSC )",
+    "Nota_Primeiro": 62.67,
+    "Nota_Último": 52.8,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 10
+  },
+  {
+    "Código": 331,
+    "Curso": "GEOGRAFIA - BEL/LIC - MATUTINO - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 59.24,
+    "Nota_Último": 28.28,
+    "Vagas_Oferecidas": 14,
+    "Vagas_Ocupadas": 23
+  },
+  {
+    "Código": 332,
+    "Curso": "GEOGRAFIA - BEL/LIC - NOTURNO - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 50.67,
+    "Nota_Último": 26.98,
+    "Vagas_Oferecidas": 14,
+    "Vagas_Ocupadas": 14
+  },
+  {
+    "Código": 336,
+    "Curso": "GEOLOGIA - BEL - INTEGRAL - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 69.52,
+    "Nota_Último": 36.75,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 20
+  },
+  {
+    "Código": 2400317,
+    "Curso": "GESTÃO AMBIENTAL - TEC - MATUTINO - GAROPABA ( IFSC )",
+    "Nota_Primeiro": 38.77,
+    "Nota_Último": 17.17,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 5
+  },
+  {
+    "Código": 2399380,
+    "Curso": "GESTÃO DA TECNOLOGIA DA INFO - TEC - NOT - FLORIANÓPOLIS - CENTRO ( IFSC )",
+    "Nota_Primeiro": 60.88,
+    "Nota_Último": 53.18,
+    "Vagas_Oferecidas": 7,
+    "Vagas_Ocupadas": 7
+  },
+  {
+    "Código": 1160131,
+    "Curso": "GESTÃO DE TURISMO - TEC - NOTURNO - SOMBRIO ( IFC )",
+    "Nota_Primeiro": 38.33,
+    "Nota_Último": 34.23,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 2
+  },
+  {
+    "Código": 6381156,
+    "Curso": "GESTÃO DO AGRONEGÓCIO - TEC - NOTURNO - LAGES ( IFSC )",
+    "Nota_Primeiro": 45.75,
+    "Nota_Último": 28.48,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 10
+  },
+  {
+    "Código": 3462774,
+    "Curso": "GESTÃO DO TURISMO - TEC - NOTURNO - FLORIANÓPOLIS - CONTINENTE ( IFSC )",
+    "Nota_Primeiro": 49.81,
+    "Nota_Último": 27.08,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 7
+  },
+  {
+    "Código": 2399030,
+    "Curso": "GESTÃO HOSPITALAR - TEC - VESP/NOT - JOINVILLE ( IFSC )",
+    "Nota_Primeiro": 51.66,
+    "Nota_Último": 19.02,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 14
+  },
+  {
+    "Código": 343,
+    "Curso": "HISTÓRIA - ABI - MATUTINO - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 71.6,
+    "Nota_Último": 57.74,
+    "Vagas_Oferecidas": 16,
+    "Vagas_Ocupadas": 16
+  },
+  {
+    "Código": 346,
+    "Curso": "HISTÓRIA - ABI - NOTURNO - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 61.67,
+    "Nota_Último": 49.83,
+    "Vagas_Oferecidas": 16,
+    "Vagas_Ocupadas": 16
+  },
+  {
+    "Código": 2400281,
+    "Curso": "HOTELARIA - TEC - MATUTINO - FLORIANÓPOLIS - CONTINENTE ( IFSC )",
+    "Nota_Primeiro": 41.22,
+    "Nota_Último": 25.98,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 2
+  },
+  {
+    "Código": 415,
+    "Curso": "JORNALISMO - BEL - INTEGRAL - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 74.35,
+    "Nota_Último": 63.21,
+    "Vagas_Oferecidas": 21,
+    "Vagas_Ocupadas": 21
+  },
+  {
+    "Código": 460,
+    "Curso": "LETRAS - ALEMÃO - ABI - VESPERTINO - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 58.58,
+    "Nota_Último": 34.66,
+    "Vagas_Oferecidas": 14,
+    "Vagas_Ocupadas": 3
+  },
+  {
+    "Código": 463,
+    "Curso": "LETRAS - ESPANHOL - ABI - MATUTINO - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 50.89,
+    "Nota_Último": 27.73,
+    "Vagas_Oferecidas": 14,
+    "Vagas_Ocupadas": 12
+  },
+  {
+    "Código": 466,
+    "Curso": "LETRAS - FRANCÊS - ABI - MATUTINO - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 58.29,
+    "Nota_Último": 32.5,
+    "Vagas_Oferecidas": 14,
+    "Vagas_Ocupadas": 14
+  },
+  {
+    "Código": 469,
+    "Curso": "LETRAS - INGLÊS - ABI - VESPERTINO - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 73.51,
+    "Nota_Último": 54.05,
+    "Vagas_Oferecidas": 14,
+    "Vagas_Ocupadas": 14
+  },
+  {
+    "Código": 472,
+    "Curso": "LETRAS - ITALIANO - ABI - MATUTINO - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 69.42,
+    "Nota_Último": 39.74,
+    "Vagas_Oferecidas": 14,
+    "Vagas_Ocupadas": 4
+  },
+  {
+    "Código": 428,
+    "Curso": "LETRAS - PORTUGUÊS - BEL/LIC - INTEGRAL - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 81.52,
+    "Nota_Último": 39.1,
+    "Vagas_Oferecidas": 28,
+    "Vagas_Ocupadas": 26
+  },
+  {
+    "Código": 426,
+    "Curso": "LETRAS - PORTUGUÊS - BEL/LIC - NOTURNO - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 68.17,
+    "Nota_Último": 38.48,
+    "Vagas_Oferecidas": 14,
+    "Vagas_Ocupadas": 26
+  },
+  {
+    "Código": 2398982,
+    "Curso": "LICENCIATURA EM FÍSICA - LIC - NOTURNO - ARARANGUÁ ( IFSC )",
+    "Nota_Primeiro": 42.67,
+    "Nota_Último": 31.29,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 2
+  },
+  {
+    "Código": 2400459,
+    "Curso": "LICENCIATURA EM FÍSICA - NOT/VESP - JARAGUÁ DO SUL - CENTRO ( IFSC )",
+    "Nota_Primeiro": 47.41,
+    "Nota_Último": 38.22,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 5
+  },
+  {
+    "Código": 12741665,
+    "Curso": "LICENCIATURA EM MATEMÁTICA - LIC - EAD - POLOS EAD ( IFSC )",
+    "Nota_Primeiro": 59.86,
+    "Nota_Último": 21.97,
+    "Vagas_Oferecidas": 120,
+    "Vagas_Ocupadas": 15
+  },
+  {
+    "Código": 2399590,
+    "Curso": "LICENCIATURA EM QUÍMICA - NOTURNO - CRICIÚMA ( IFSC )",
+    "Nota_Primeiro": 46.28,
+    "Nota_Último": 39.86,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 2
+  },
+  {
+    "Código": 14373067,
+    "Curso": "LICENCIATURA EM QUÍMICA - NOTURNO - SÃO JOSÉ ( IFSC )",
+    "Nota_Primeiro": 44.35,
+    "Nota_Último": 28.34,
+    "Vagas_Oferecidas": 9,
+    "Vagas_Ocupadas": 5
+  },
+  {
+    "Código": 1264305,
+    "Curso": "LOGÍSTICA - TEC - NOTURNO - SÃO FRANCISCO DO SUL ( IFC )",
+    "Nota_Primeiro": 42.53,
+    "Nota_Último": 32.63,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 3
+  },
+  {
+    "Código": 222,
+    "Curso": "MATEMÁTICA - BEL - INTEGRAL - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 75.47,
+    "Nota_Último": 36.8,
+    "Vagas_Oferecidas": 14,
+    "Vagas_Ocupadas": 14
+  },
+  {
+    "Código": 223,
+    "Curso": "MATEMÁTICA - LIC - MATUTINO - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 69.97,
+    "Nota_Último": 24.28,
+    "Vagas_Oferecidas": 38,
+    "Vagas_Ocupadas": 21
+  },
+  {
+    "Código": 756,
+    "Curso": "MATEMÁTICA - LIC - MATUTINO - BLUMENAU ( UFSC )",
+    "Nota_Primeiro": 49.79,
+    "Nota_Último": 38.92,
+    "Vagas_Oferecidas": 17,
+    "Vagas_Ocupadas": 4
+  },
+  {
+    "Código": 1103031,
+    "Curso": "MATEMÁTICA - LIC - NOTURNO - CONCÓRDIA ( IFC )",
+    "Nota_Primeiro": 41.86,
+    "Nota_Último": 36.93,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 2
+  },
+  {
+    "Código": 751,
+    "Curso": "MATEMÁTICA - LIC - NOTURNO - BLUMENAU ( UFSC )",
+    "Nota_Primeiro": 51.12,
+    "Nota_Último": 38.52,
+    "Vagas_Oferecidas": 17,
+    "Vagas_Ocupadas": 6
+  },
+  {
+    "Código": 1102795,
+    "Curso": "MATEMÁTICA - LIC - NOTURNO - RIO DO SUL (UNIDADE URBANA) ( IFC )",
+    "Nota_Primeiro": 32.49,
+    "Nota_Último": 30.43,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 3
+  },
+  {
+    "Código": 1103025,
+    "Curso": "MATEMÁTICA - LIC - NOTURNO - CAMBORIÚ ( IFC )",
+    "Nota_Primeiro": 33.27,
+    "Nota_Último": 33.27,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 1
+  },
+  {
+    "Código": 656,
+    "Curso": "MEDICINA - BEL - INTEGRAL - ARARANGUÁ ( UFSC )",
+    "Nota_Primeiro": 88.78,
+    "Nota_Último": 83.5,
+    "Vagas_Oferecidas": 21,
+    "Vagas_Ocupadas": 21
+  },
+  {
+    "Código": 103,
+    "Curso": "MEDICINA - BEL - INTEGRAL - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 91.09,
+    "Nota_Último": 86.21,
+    "Vagas_Oferecidas": 35,
+    "Vagas_Ocupadas": 35
+  },
+  {
+    "Código": 552,
+    "Curso": "MEDICINA VETERINÁRIA - BEL - INTEGRAL - CURITIBANOS ( UFSC )",
+    "Nota_Primeiro": 68.09,
+    "Nota_Último": 48.42,
+    "Vagas_Oferecidas": 28,
+    "Vagas_Ocupadas": 28
+  },
+  {
+    "Código": 1102792,
+    "Curso": "MEDICINA VETERINÁRIA - BEL - INTEGRAL - CONCÓRDIA ( IFC )",
+    "Nota_Primeiro": 61.85,
+    "Nota_Último": 45.56,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 10
+  },
+  {
+    "Código": 1103036,
+    "Curso": "MEDICINA VETERINÁRIA - BEL - INTEGRAL - ARAQUARI ( IFC )",
+    "Nota_Primeiro": 73.33,
+    "Nota_Último": 51.5,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 10
+  },
+  {
+    "Código": 230,
+    "Curso": "METEOROLOGIA - BEL - INTEGRAL - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 59.53,
+    "Nota_Último": 38.28,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 4
+  },
+  {
+    "Código": 338,
+    "Curso": "MUSEOLOGIA - BEL - INTEGRAL - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 59.68,
+    "Nota_Último": 35.9,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 14
+  },
+  {
+    "Código": 1102787,
+    "Curso": "NEGÓCIOS IMOBILIÁRIOS - TEC - NOTURNO - CAMBORIÚ ( IFC )",
+    "Nota_Primeiro": 53.43,
+    "Nota_Último": 29.53,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 4
+  },
+  {
+    "Código": 9,
+    "Curso": "NUTRIÇÃO - BEL - INTEGRAL - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 76.19,
+    "Nota_Último": 62.31,
+    "Vagas_Oferecidas": 16,
+    "Vagas_Ocupadas": 16
+  },
+  {
+    "Código": 333,
+    "Curso": "OCEANOGRAFIA - BEL - INTEGRAL - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 63.54,
+    "Nota_Último": 46.11,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 13
+  },
+  {
+    "Código": 104,
+    "Curso": "ODONTOLOGIA - BEL - INTEGRAL - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 78.9,
+    "Nota_Último": 59.44,
+    "Vagas_Oferecidas": 35,
+    "Vagas_Ocupadas": 35
+  },
+  {
+    "Código": 1330648,
+    "Curso": "PEDAGOGIA - LIC - NOTURNO - RIO DO SUL (UNIDADE URBANA) ( IFC )",
+    "Nota_Primeiro": 49.83,
+    "Nota_Último": 25.95,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 4
+  },
+  {
+    "Código": 1125934,
+    "Curso": "PEDAGOGIA - LIC - NOTURNO - CAMBORIÚ ( IFC )",
+    "Nota_Primeiro": 36.63,
+    "Nota_Último": 2.0,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 4
+  },
+  {
+    "Código": 1307282,
+    "Curso": "PEDAGOGIA - LIC - NOTURNO - BLUMENAU ( IFC )",
+    "Nota_Primeiro": 42.73,
+    "Nota_Último": 29.42,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 7
+  },
+  {
+    "Código": 1179300,
+    "Curso": "PEDAGOGIA - LIC - NOTURNO - VIDEIRA ( IFC )",
+    "Nota_Primeiro": 44.45,
+    "Nota_Último": 27.8,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 4
+  },
+  {
+    "Código": 308,
+    "Curso": "PEDAGOGIA - LIC - VESPERTINO - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 68.35,
+    "Nota_Último": 28.75,
+    "Vagas_Oferecidas": 35,
+    "Vagas_Ocupadas": 66
+  },
+  {
+    "Código": 50140323,
+    "Curso": "PROCESSOS GERENCIAS - TEC - NOTURNO - TUBARÃO ( IFSC )",
+    "Nota_Primeiro": 52.52,
+    "Nota_Último": 39.04,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 6
+  },
+  {
+    "Código": 2400442,
+    "Curso": "PROCESSOS GERENCIAS - TEC - NOTURNO - GASPAR ( IFSC )",
+    "Nota_Primeiro": 47.5,
+    "Nota_Último": 29.12,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 8
+  },
+  {
+    "Código": 49382552,
+    "Curso": "PROCESSOS GERENCIAS - TEC - NOTURNO - SÃO MIGUEL DO OESTE ( IFSC )",
+    "Nota_Primeiro": 41.57,
+    "Nota_Último": 24.57,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 10
+  },
+  {
+    "Código": 2400331,
+    "Curso": "PRODUÇÃO MULTIMÍDIA - TEC - NOTURNO - PALHOÇA ( IFSC )",
+    "Nota_Primeiro": 59.58,
+    "Nota_Último": 38.2,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 17
+  },
+  {
+    "Código": 319,
+    "Curso": "PSICOLOGIA - BEL/LIC - INTEGRAL - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 78.74,
+    "Nota_Último": 68.16,
+    "Vagas_Oferecidas": 31,
+    "Vagas_Ocupadas": 31
+  },
+  {
+    "Código": 757,
+    "Curso": "QUÍMICA - BEL - INTEGRAL - BLUMENAU ( UFSC )",
+    "Nota_Primeiro": 62.36,
+    "Nota_Último": 32.92,
+    "Vagas_Oferecidas": 17,
+    "Vagas_Ocupadas": 15
+  },
+  {
+    "Código": 226,
+    "Curso": "QUÍMICA - BEL - INTEGRAL - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 81.48,
+    "Nota_Último": 29.39,
+    "Vagas_Oferecidas": 28,
+    "Vagas_Ocupadas": 40
+  },
+  {
+    "Código": 205,
+    "Curso": "QUÍMICA - LIC - INTEGRAL - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 64.27,
+    "Nota_Último": 31.8,
+    "Vagas_Oferecidas": 14,
+    "Vagas_Ocupadas": 8
+  },
+  {
+    "Código": 1125948,
+    "Curso": "QUÍMICA - LIC - NOTURNO - ARAQUARI ( IFC )",
+    "Nota_Primeiro": 38.56,
+    "Nota_Último": 27.46,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 4
+  },
+  {
+    "Código": 1419756,
+    "Curso": "QUÍMICA - LIC - NOTURNO - BRUSQUE ( IFC )",
+    "Nota_Primeiro": 27.85,
+    "Nota_Último": 22.18,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 2
+  },
+  {
+    "Código": 752,
+    "Curso": "QUÍMICA - LIC - NOTURNO - BLUMENAU ( UFSC )",
+    "Nota_Primeiro": 65.65,
+    "Nota_Último": 39.59,
+    "Vagas_Oferecidas": 17,
+    "Vagas_Ocupadas": 9
+  },
+  {
+    "Código": 227,
+    "Curso": "QUÍMICA TECNOLÓGICA - BEL - INTEGRAL - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 65.71,
+    "Nota_Último": 31.79,
+    "Vagas_Oferecidas": 14,
+    "Vagas_Ocupadas": 11
+  },
+  {
+    "Código": 2399378,
+    "Curso": "RADIOLOGIA - TEC - INTEGRAL - FLORIANÓPOLIS - CENTRO ( IFSC )",
+    "Nota_Primeiro": 66.77,
+    "Nota_Último": 30.34,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 11
+  },
+  {
+    "Código": 1377572,
+    "Curso": "REDES DE COMPUTADORES - TEC - NOTURNO - BRUSQUE ( IFC )",
+    "Nota_Primeiro": 43.04,
+    "Nota_Último": 29.8,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 7
+  },
+  {
+    "Código": 1342973,
+    "Curso": "REDES DE COMPUTADORES - TEC - NOTURNO - ARAQUARI ( IFC )",
+    "Nota_Primeiro": 25.21,
+    "Nota_Último": 25.21,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 1
+  },
+  {
+    "Código": 1102924,
+    "Curso": "REDES DE COMPUTADORES - TEC - NOTURNO - SOMBRIO ( IFC )",
+    "Nota_Primeiro": 26.8,
+    "Nota_Último": 26.8,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 1
+  },
+  {
+    "Código": 340,
+    "Curso": "RELAÇÕES INTERNACIONAIS - BEL - VESP - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 82.94,
+    "Nota_Último": 68.08,
+    "Vagas_Oferecidas": 28,
+    "Vagas_Ocupadas": 28
+  },
+  {
+    "Código": 429,
+    "Curso": "SECRETARIADO EXECUTIVO - BEL - NOTURNO - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 56.71,
+    "Nota_Último": 29.77,
+    "Vagas_Oferecidas": 14,
+    "Vagas_Ocupadas": 15
+  },
+  {
+    "Código": 339,
+    "Curso": "SERVIÇO SOCIAL - BEL - NOTURNO - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 69.93,
+    "Nota_Último": 16.15,
+    "Vagas_Oferecidas": 31,
+    "Vagas_Ocupadas": 52
+  },
+  {
+    "Código": 2399379,
+    "Curso": "SISTEMAS DE ENERGIA - TEC - NOTURNO - FLORIANÓPOLIS - CENTRO ( IFSC )",
+    "Nota_Primeiro": 57.25,
+    "Nota_Último": 34.28,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 4
+  },
+  {
+    "Código": 1102774,
+    "Curso": "SISTEMAS DE INFORMAÇÃO - BEL - MATUTINO - ARAQUARI ( IFC )",
+    "Nota_Primeiro": 54.09,
+    "Nota_Último": 30.07,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 11
+  },
+  {
+    "Código": 1103034,
+    "Curso": "SISTEMAS DE INFORMAÇÃO - BEL - MATUTINO - CAMBORIÚ ( IFC )",
+    "Nota_Primeiro": 59.48,
+    "Nota_Último": 29.64,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 11
+  },
+  {
+    "Código": 238,
+    "Curso": "SISTEMAS DE INFORMAÇÃO - BEL - NOTURNO - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 74.86,
+    "Nota_Último": 62.54,
+    "Vagas_Oferecidas": 35,
+    "Vagas_Ocupadas": 35
+  },
+  {
+    "Código": 2399185,
+    "Curso": "SISTEMAS DE INFORMAÇÃO - BEL - NOTURNO - CAÇADOR ( IFSC )",
+    "Nota_Primeiro": 46.89,
+    "Nota_Último": 20.15,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 9
+  },
+  {
+    "Código": 50217877,
+    "Curso": "SISTEMAS EMBARCADOS - TEC - VESPERTINO - TUBARÃO ( IFSC )",
+    "Nota_Primeiro": 38.35,
+    "Nota_Último": 38.35,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 1
+  },
+  {
+    "Código": 1595681,
+    "Curso": "SISTEMAS PARA INTERNET - EAD - CAMBORIÚ ( IFC )",
+    "Nota_Primeiro": 48.2,
+    "Nota_Último": 28.52,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 11
+  },
+  {
+    "Código": 23188109,
+    "Curso": "SISTEMAS PARA INTERNET - TEC - NOTURNO - GAROPABA ( IFSC )",
+    "Nota_Primeiro": 45.48,
+    "Nota_Último": 23.19,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 8
+  },
+  {
+    "Código": 652,
+    "Curso": "TEC. DA INFO. E COMUNICAÇÃO - BEL - NOT - ARARANGUÁ ( UFSC )",
+    "Nota_Primeiro": 61.91,
+    "Nota_Último": 51.02,
+    "Vagas_Oferecidas": 21,
+    "Vagas_Ocupadas": 21
+  },
+  {
+    "Código": 13905998,
+    "Curso": "VITICULTURA E ENOLOGIA - TEC - VESP - URUPEMA ( IFSC )",
+    "Nota_Primeiro": 43.27,
+    "Nota_Último": 32.76,
+    "Vagas_Oferecidas": 6,
+    "Vagas_Ocupadas": 3
+  },
+  {
+    "Código": 502,
+    "Curso": "ZOOTECNIA - BEL - INTEGRAL - FLORIANÓPOLIS ( UFSC )",
+    "Nota_Primeiro": 55.36,
+    "Nota_Último": 27.34,
+    "Vagas_Oferecidas": 24,
+    "Vagas_Ocupadas": 21
+  },
+  {
+    "Código": 1609552,
+    "Curso": "ZOOTECNIA - BEL - INTEGRAL - SANTA ROSA DO SUL ( IFC )",
+    "Nota_Primeiro": 39.91,
+    "Nota_Último": 28.68,
+    "Vagas_Oferecidas": 10,
+    "Vagas_Ocupadas": 2
+  }
+]
