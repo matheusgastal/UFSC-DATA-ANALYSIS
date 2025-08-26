@@ -6,6 +6,10 @@ with open("notas_por_ano.json", "r", encoding="utf-8") as f:
 
 df_pesos = pd.read_json("pesos_ufsc.json")
 
+
+RDC = 8 #redacao (max 10)
+DSC = 7. #descritivas da prova (max 10)
+
 # função auxiliar
 def to_float_safe(x):
     try:
@@ -17,14 +21,14 @@ for i in range(2,6):
     ano = f"202{i}"
     df = pd.read_json(f"cortes_ufsc_{ano}.json")
 
-    # pegar as notas do ano corrente
-    notas_brutas = notas_anuais[ano]
+    notas_brutas = notas_anuais[ano].copy()
+    notas_brutas["RDC"] = RDC
+    notas_brutas["DSC"] = DSC
 
-    # cálculo das notas finais por curso
     hash_cursos = {}
     for j in range(len(df_pesos)):
         codigo = str(df_pesos.loc[j, "Código"])
-        pesos = df_pesos.loc[j, "pesos"]   # já vem como dict
+        pesos = df_pesos.loc[j, "pesos"]   
         pmc = to_float_safe(df_pesos.loc[j, "PMC"])
         nota_final = sum(
             notas_brutas[m] * to_float_safe(pesos.get(m, 0))
